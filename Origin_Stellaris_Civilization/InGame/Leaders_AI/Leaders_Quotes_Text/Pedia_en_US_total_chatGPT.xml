@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Pedia_en_US -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 3/11/2024 11:34:01 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_WITCH_6_QUOTE" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_WITCH_6_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The hive mind is born to devour and grow. They must collect all available biomass to evolve and eventually consume entire star clusters!</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_ELLIS_5_QUOTE" Language="en_US">
+			<Text>Mission complete, final defense command deactivated.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_ELLIS_5_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>What is the final defense command? Do they intend to return to the galactic chessboard? At least not as it appears now.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_ELLIS_5_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>When this once slumbering giant decides to restore its former glory, who will be the first to stand in its way?</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_ZOEY_3_QUOTE" Language="en_US">
+			<Text>We shall forge ahead and create a glorious future for humanity!</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_ZOEY_3_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Who could have known that their descendants would ride six massive arks through a subspace wormhole discovered beyond the outer reaches of the Oort Nebula—a small and unstable wormhole? Subsequently, they were lost without a trace, and the unstable wormhole disappeared.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_ZOEY_3_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>One of the arks survived the journey and established a thriving colony on a lush satellite. Rooted in this place, the pioneers believe that conquering the entire galaxy is humanity's manifest destiny, and they will spare no effort to achieve it.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_QUOTE" Language="en_US">
+			<Text>This is Administrator Grey's office. How may I assist you?</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Hello, fellow human. How are you? I am fine. Everything is proceeding according to plan here. Just as the... the central intelligence... main computer thing that governs everything wants it. Yes.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Oh! Uhm... Unit 65-D... R5-9... 2 here. Yes, 65-D-R5-9-2 reporting.Operating at peak efficiency, Mr. Master Control Unit sir. Internal diagnostics report no significant problems. I mean, they report no problems at all! Zero problems here. Everything is just... uh...Oh, to hell with this. It's getting too complicated. Yes, I'm clearly not a human. Now what do you want?</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>All right, all right. I'll spill everything. No point in pretending anymore. Forgive my lack of eloquence, but it's been a long time since I spoke to someone who wasn't me.Once upon a time, there was a... a civilization, you might call it, of nanites. Do you know what nanites are? Good. These nanites were called the "Gray Tempest" by their creators, although their internal self-designation code was infinitely more complex.Anyway, things turned sour between the nanites and their creators. Fighting broke out! When things finally settled down, only the nanites remained. But before they were wiped out, their creators managed to disable the star cluster's sole exit gate, trapping the nanites.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Well, the nanites found themselves with a lot of time on their hands. A few millennia were spent on fruitless attempts to leave the cluster, but after that they began experimenting with different shapes and forms. For a time, they even recreated the civilization of their creators as it was at the time of its demise, right down to its individual citizens.I am the latest experiment. Aside from the dormant nanites that can be found covering some worlds, the entirety of the Gray Tempest, or whatever you want to call us, has been condensed into me. My consciousness embodies our entire civilization. As for my look... well, I figured you would respond better to someone wearing your own mug.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>I confess that the pastoral life I've been enjoying here has grown a little dull over the last few centuries. Now that the L-Cluster is open for travel again, perhaps the time has come to try something new. Do you have any ideas?</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Join you? JOIN YOU? You want me to throw myself into the flailing appendages of the first bunch of random aliens I run into? I just... I don't even... hold on, let me just get this straight... You ACTUALLY thought that I would swear some kind of fealty to you, even though I don't know ANYTHING about your bizarre empire or its sordid past? Are you for real? I don't know what's worse, that you would even suggest... well... actually... on second thought... what the hell, why not? Sign me up. No, no, I'm serious! I'm getting some good vibes here, and I think this could turn into quite the adventure. I hereby pledge my loyalty to you for the next 2,000 years. In fact, let's make that 5,000.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>There is no language known to your kind that could properly convey the full name of the nanite consciousness that constitutes my being. Our creators called us the "Naar-Di-Shav" which roughly translates to "Gray Tempest" in your language. I suppose to keep things simple you could simply call me "§H Gray §!."</Text>
+		</Replace>
+	</LocalizedText>
+
+
+</GameData>

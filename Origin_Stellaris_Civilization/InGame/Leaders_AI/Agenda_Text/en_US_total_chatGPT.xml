@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- en_US_with_help_of_chatGPT -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 3/11/2024 11:30:57 AM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_WITCH_6_NAME" Language="en_US">
+			<Text>Instinct of Slaughter</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_WITCH_6_DESCRIPTION" Language="en_US">
+			<Text>Their eyes are filled with slaughter and devouring, very dangerous.</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_DEVOURING_DES" Language="en_US">
+			<Text>Hostility of the Devouring Swarm</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_DEVOURING_KEY" Language="en_US">
+			<Text>Grating noise...(Hostility of the Devouring Swarm)</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_ARMY_DES" Language="en_US">
+			<Text>You have a large standing army</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_ARMY_KEY" Language="en_US">
+			<Text>Grating noise...(You have a large standing army)</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_ARMY_2_DES" Language="en_US">
+			<Text>Your standing army is too small</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_ARMY_2_KEY" Language="en_US">
+			<Text>Grating noise...(Perhaps your standing army is too small)</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_NEIGHBORS_DES" Language="en_US">
+			<Text>Perhaps it wants to devour neighbors</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_NEIGHBORS_KEY" Language="en_US">
+			<Text>Grating noise...(Perhaps it wants to devour neighbors)</Text>
+		</Replace>
+
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_ELLIS_5_NAME" Language="en_US">
+			<Text>Catalytic Assembly</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_ELLIS_5_DESCRIPTION" Language="en_US">
+			<Text>Likes to assemble [ICON_Citizen] citizens with food-catalyzed alloys in cities, likes civilizations with many [ICON_Citizen] citizens, dislikes civilizations with few [ICON_Citizen] citizens.</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ELLIS_5_POPULATION_DES" Language="en_US">
+			<Text>Likes civilizations with many citizens</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ELLIS_5_POPULATION_KEY" Language="en_US">
+			<Text>Delighted to see your cities bustling with people, prosperous and thriving.</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ELLIS_5_POPULATION_2_DES" Language="en_US">
+			<Text>Dislikes civilizations with few citizens</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ELLIS_5_POPULATION_2_KEY" Language="en_US">
+			<Text>Your cities seem a bit desolate.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_ZOEY_3_NAME" Language="en_US">
+			<Text>Prosperity through Conquest</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_ZOEY_3_DESCRIPTION" Language="en_US">
+			<Text>Dislikes neighbors and will attempt to conquer them.</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ZOEY_3_NEIGHBORS_DES" Language="en_US">
+			<Text>Dislikes civilizations with border friction</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ZOEY_3_NEIGHBORS_KEY" Language="en_US">
+			<Text>Expanding our borders will make us stronger, right?</Text>
+		</Replace>
+
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_GREY_NAME" Language="en_US">
+			<Text>Technological Excellence</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_GREY_DESCRIPTION" Language="en_US">
+			<Text>Pursues higher [ICON_Science] science values, likes technologically advanced civilizations, dislikes technologically backward civilizations.</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_GREY_SCIENCE_DES" Language="en_US">
+			<Text>Likes technologically advanced civilizations</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_GREY_SCIENCE_KEY" Language="en_US">
+			<Text>Your technology is quite advanced, is there a secret?</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_GREY_SCIENCE_2_DES" Language="en_US">
+			<Text>Dislikes technologically backward civilizations</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_GREY_SCIENCE_2_KEY" Language="en_US">
+			<Text>It seems your development is peculiar, perhaps you should catch up on technology?</Text>
+		</Replace>
+	</LocalizedText>
+
+</GameData>

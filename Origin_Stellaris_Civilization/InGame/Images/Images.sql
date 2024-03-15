@@ -1,0 +1,26 @@
+-- Images
+-- Author: wldcmzy
+-- DateCreated: 2/28/2024 2:57:59 PM
+--------------------------------------------------------------
+INSERT INTO LoadingInfo			
+(LeaderType,					ForegroundImage,									BackgroundImage)	
+VALUES
+('LEADER_STELLARIS_ELLIS_5',	NULL,												'IMG_LEADER_STELLARIS_ELLIS_5_BACKGROUND_.dds'	),
+('LEADER_STELLARIS_GREY',		'IMG_LEADER_STELLARIS_GREY_FOREGROUND_.dds',		'IMG_LEADER_STELLARIS_GREY_BACKGROUND_.dds'		),
+('LEADER_STELLARIS_WITCH_6',	NULL,												'IMG_LEADER_STELLARIS_WITCH_6_BACKGROUND_.dds'	),
+('LEADER_STELLARIS_ZOEY_3',		NULL,												'IMG_LEADER_STELLARIS_ZOEY_3_BACKGROUND_.dds'	);
+
+
+INSERT INTO DiplomacyInfo	
+(Type,								BackgroundImage)	
+VALUES
+('LEADER_STELLARIS_ELLIS_5',		'IMG_LEADER_STELLARIS_ELLIS_5_BACKGROUND_.dds'	),
+('LEADER_STELLARIS_GREY',			'IMG_LEADER_STELLARIS_GREY_BACKGROUND_.dds'		),
+('LEADER_STELLARIS_WITCH_6',		'IMG_LEADER_STELLARIS_WITCH_6_BACKGROUND_.dds'	),
+('LEADER_STELLARIS_ZOEY_3',			'IMG_LEADER_STELLARIS_ZOEY_3_BACKGROUND_.dds'	);
+
+
+INSERT INTO MomentIllustrations
+(MomentIllustrationType,					MomentDataType,				GameDataType,						Texture)	
+VALUES
+('MOMENT_ILLUSTRATION_UNIQUE_BUILDING',		'MOMENT_DATA_BUILDING',		'BUILDING_OFFSPRING_NEST',			'zscxmmt_.dds');

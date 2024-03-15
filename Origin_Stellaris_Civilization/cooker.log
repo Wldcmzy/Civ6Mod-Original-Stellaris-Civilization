@@ -1,0 +1,13 @@
+Starting AssetCooker...
+Argument '--shaders' has been deprecated and is no longer used.
+XLP cook starting...
+G:\CIVImod\Original_Stellaris_Civilization\Origin_Stellaris_Civilization\XLPs\_Icons.xlp
+Opened output file: C:\Users\wldcmzy\Documents\My Games\Sid Meier's Civilization VI\Mods\Origin_Stellaris_Civilization\Platforms\MacOS\BLPs/_Icons.blp    For XLP: 'G:\CIVImod\Original_Stellaris_Civilization\Origin_Stellaris_Civilization\XLPs\_Icons.xlp'
+Could not load digest key: ''.  Using mod key to sign BLP.
+Starting '_Icons'
+Load finished for: '_Icons' in 0.010 seconds
+Cook finished for: '_Icons' in 0.031 seconds
+Disk write finished for: '_Icons' in 0.051 seconds
+Cleanup finished for: '_Icons' in 0.001 seconds
+XLP cook completed with success.
+Cook completed in 0.106 seconds

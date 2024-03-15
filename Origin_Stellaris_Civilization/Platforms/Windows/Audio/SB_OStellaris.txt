@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	138262418	Play_Music_ORIGINALSTELLARIS			\Music\Play_Music_ORIGINALSTELLARIS	
+	847604901	Resume_Music_ORIGINALSTELLARIS			\Music\Resume_Music_ORIGINALSTELLARIS	
+	969620262	Stop_Leader_Music_ORIGINALSTELLARIS			\Music\Stop_Leader_Music_ORIGINALSTELLARIS	
+	1280448440	Play_Leader_Music_ORIGINALSTELLARIS			\Music\Play_Leader_Music_ORIGINALSTELLARIS	
+	1694422836	Pause_Music_ORIGINALSTELLARIS			\Music\Pause_Music_ORIGINALSTELLARIS	
+	3005854412	Stop_Music_ORIGINALSTELLARIS			\Music\Stop_Music_ORIGINALSTELLARIS	
+	3554803338	Start_Music_ORIGINALSTELLARIS			\Music\Start_Music_ORIGINALSTELLARIS	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	373350295	Game_Location			\Default Work Unit\Game_Location	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	260577507	creationandbeyondpart1	G:\CVImoddata\civ6bgmStellaris_rework\.cache\Windows\SFX\creationandbeyondpart1_4B8CC0C5.wem	260577507.wem	\Interactive Music Hierarchy\Default Work Unit\ExDiplo\LeaderPlaylist\Seg\creationandbeyondpart1	
+	738300100	fasterthanlight	G:\CVImoddata\civ6bgmStellaris_rework\.cache\Windows\SFX\fasterthanlight_4B8CC0C5.wem	738300100.wem	\Interactive Music Hierarchy\Default Work Unit\Ex\Playlist01\Seg0101\fasterthanlight	
+

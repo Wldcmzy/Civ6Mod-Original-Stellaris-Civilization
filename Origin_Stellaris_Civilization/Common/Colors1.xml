@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Colors -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 2/24/2024 11:20:17 PM -->
+<GameData>
+	
+	<Colors>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_BLACK</Type>
+			<Color>28,28,28,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_BLUE</Type>
+			<Color>0,191,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_DARK_GREEN</Type>
+			<Color>0,100,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_DARK_BLUE</Type>
+			<Color>0,0,128,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_DARK_YELLOW</Type>
+			<Color>218,165,32,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_GREEN</Type>
+			<Color>102,205,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_LIGHT_GREEN</Type>
+			<Color>144,238,144,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_LIGHT_PINK</Type>
+			<Color>255,182,193,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_LIGHT_YELLOW</Type>
+			<Color>255,255,153,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_ORANGE</Type>
+			<Color>255,140,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_PURPLE</Type>
+			<Color>128,0,128,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_RED</Type>
+			<Color>255,39,76,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_SILVER</Type>
+			<Color>192,192,192,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_PINK</Type>
+			<Color>255,105,180,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_ORIGIN_STELLARIS_CIVILIZATION_YELLOW</Type>
+			<Color>255,215,0,255</Color>
+		</Row>
+	</Colors>
+
+
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_STELLARIS_GREY</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_SILVER</PrimaryColor>
+			<SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_BLACK</SecondaryColor>
+			<Alt1PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_YELLOW</Alt1PrimaryColor>
+			<Alt1SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt1SecondaryColor>
+			<Alt2PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt2PrimaryColor>
+			<Alt2SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_DARK_BLUE</Alt2SecondaryColor>
+			<Alt3PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_PINK</Alt3PrimaryColor>
+			<Alt3SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt3SecondaryColor>
+		</Row>
+
+
+		<Row>
+			<Type>LEADER_STELLARIS_ZOEY_3</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_BLUE</PrimaryColor>
+			<SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</SecondaryColor>
+			<Alt1PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_GREEN</Alt1PrimaryColor>
+			<Alt1SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt1SecondaryColor>
+			<Alt2PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_SILVER</Alt2PrimaryColor>
+			<Alt2SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_BLACK</Alt2SecondaryColor>
+			<Alt3PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_RED</Alt3PrimaryColor>
+			<Alt3SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt3SecondaryColor>
+		</Row>
+
+
+		<Row>
+			<Type>LEADER_STELLARIS_ELLIS_5</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_ORANGE</PrimaryColor>
+			<SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</SecondaryColor>
+			<Alt1PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_ORANGE</Alt1PrimaryColor>
+			<Alt1SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_BLACK</Alt1SecondaryColor>
+			<Alt2PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_DARK_GREEN</Alt2PrimaryColor>
+			<Alt2SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt2SecondaryColor>
+			<Alt3PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_SILVER</Alt3PrimaryColor>
+			<Alt3SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_BLACK</Alt3SecondaryColor>
+		</Row>
+
+
+
+		<Row>
+			<Type>LEADER_STELLARIS_WITCH_6</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_PURPLE</PrimaryColor>
+			<SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</SecondaryColor>
+			<Alt1PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_DARK_BLUE</Alt1PrimaryColor>
+			<Alt1SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt1SecondaryColor>
+			<Alt2PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_DARK_YELLOW</Alt2PrimaryColor>
+			<Alt2SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt2SecondaryColor>
+			<Alt3PrimaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_RED</Alt3PrimaryColor>
+			<Alt3SecondaryColor>COLOR_ORIGIN_STELLARIS_CIVILIZATION_WHITE</Alt3SecondaryColor>
+		</Row>
+	</PlayerColors>
+
+</GameData>

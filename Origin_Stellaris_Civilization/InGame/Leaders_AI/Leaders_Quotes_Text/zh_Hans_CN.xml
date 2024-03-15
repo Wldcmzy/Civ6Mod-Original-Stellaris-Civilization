@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- zh_Hans_CN -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 3/6/2024 11:37:00 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- LEADER_STELLARIS_GREY-->
+		<!--=============================================================================================-->
+		<!--应该把绝大多数的对话都搜到了，貌似有的对话不会影响游戏，因为游戏中会用一些固定的语句，比如AI拒绝交易的时候？还有的对话游戏中根本不会用到，至少我没见过。-->
+		<!--=============================================================================================-->
+
+		<!--Agenda-->
+		<!--=============================================================================================-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>你的科技好发达呀，是有什么秘诀吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_STELLARIS_GREY_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(您的科技十分发达)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>总感觉你的发展怪怪的，或许你应该追赶一下科技了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_STELLARIS_GREY_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(您的科技有些落后了)</Text>
+		</Replace>
+
+
+		<!--First Meet & Defeat & Greeting-->
+		<!--=============================================================================================-->
+
+		<!--First Meet-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>你好，陌生人。我们的造物主称我们为“纳-迪-沙”，在你们的语言里大致可以译为“灰之风暴”。我建议简单一点，就叫我“小灰”吧。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>你要来我的城市看看吗，我能为你定制舒适的环境，我们可以共享良辰美景。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>看来我们很有缘分呢，陌生人。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>请原谅我把话说得太直，但我已经很久没有与我自己以外的人交谈过了，我们可以交换关于首都的信息吗？</Text>
+		</Replace>
+
+		<!--Defeat-->
+		<!-- 
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>加入你们？加入你们！？你要我自己投入某个初次见面的陌生外星人的怀抱？我真的……我简直……等等，让我把话说清楚……你真的以为我会向你宣誓效忠，尽管我对你那诡异的帝国或是其肮脏的历史一无所知？你没开玩笑吧？你居然会出这种提议，我真的不知道你在想……呃……其实……转念一想……好吧，何不呢？让我入伙吧。不，不，我是说真的！我感觉我们会很合得来，而且这将会是一段激动人心的大冒险。在此我宣布在接下来的2000年里效忠于你。不，还是5000年吧！</Text>
+		</Replace>
+		-->
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>这不是我第一次被打散并重组了，但这滋味从来都不好受。我大概会在庞大的地下洞穴中四处游荡。在你们的几千年之后，等我从地下冒出来时，或许我们会再见面的。保重！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_GREY_ANY}</Text>
+		</Replace>
+
+		<!--Greeting-->
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>这里是行政官小灰的办公室。请问有什么吩咐吗？</Text>
+		</Replace>
+
+
+		<!--Delegation & Embassy-->
+		<!--=============================================================================================-->
+
+		<!--Delegation-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>太好了，我想我终于掌握模仿外观的窍门了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>谢谢你的好意，但我们暂时没有这方面的打算，就不收你的礼物了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我们星团...额...城市有些非常独特的资源，你可能会感兴趣的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>太好了，我们在未来也一定可以友好交流！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>呃，那好吧，或许以后再说吧。</Text>
+		</Replace>
+
+		<!--Embassy-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>常驻使馆吗，听起来非常不错，我可以时常到你们的使馆做客吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>谢谢，但我们目前对大使馆并不感兴趣。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>可以允许我们在你的首都建立大使馆吗？相信这对我们都有好处。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>太棒了！这样以后与你们交流就方便多了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>是这样吗，那好吧，抱歉打扰啦。</Text>
+		</Replace>
+
+
+		<!--Friendship & Alliance-->
+		<!--=============================================================================================-->
+
+		<!--Friendship-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>太好了，谁能想到，刻苦努力地工作能获得如此丰厚的回报？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>容我拒绝，现在还不可以。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>从客观意义上讲，我们两国的确挺合得来的，让我们携手共进吧！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>太棒了，祝我们友谊长存！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>诶，是我哪里做的还不够好吗？</Text>
+		</Replace>
+
+		<!--Alliance-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>不可以哦，杂鱼——[NEWLINE]逗你玩的，相信我们一定可以成为牢不可破的同盟。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>容我拒绝，现在还不是时候。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>来缔结盟约吧，我们约法十章，向盟约起誓。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我们两国已经缔结了深厚的友谊，相信我们一定可以成为牢不可破的同盟。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>好吧，那希望有朝一日我们以成为同盟吧。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我们再续同盟吧，向盟约起誓。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我就知道你一定会同意的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我原以为我们会成为一生的盟友。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>等你这句话好久了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>或许...我们可以暂时搁置一下这件事，我感到有些不安。</Text>
+		</Replace>
+
+		<!--Denounce & War & Make Peace-->
+		<!--=============================================================================================-->
+
+		<!--Denounce-->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>或许我们不该信任任何单形态物种。至少，你们与我们的创造者似乎并没有两样。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>哼，单形态族的混蛋。[NEWLINE]（谴责你）</Text>
+		</Replace>
+
+		<!--War-->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>想必阁下也想见识一下“灰色风暴”吧，阁下将...§Y&lt;无法解读&gt;§...巨大的代价。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我得承认，在最近这几个世纪里，我已经对田园生活感到有些无聊了，而恰好此时你让我很生气。</Text>
+		</Replace>
+
+		<!--Make Peace-->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>或许这样最好。最近我发现征伐使我感到疲倦。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>不，阁下将要承担的是更加巨大的代价。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>嘿，我知道你在听，我们之间还有和平共处的机会，握手言和吧。</Text>
+		</Replace>
+
+
+		<!--Open Borders & Make Deal & Demand-->
+		<!--=============================================================================================-->
+
+		<!--Open Borders-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>等你这句话好久了，让我们尽情漫步吧！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我暂且拒绝吧，这涉及到国防安全，我还没有那么信任你。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>请问，我可以到你们的土地上游历一番吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>太好了！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>那好吧，我还以为你会同意呢。</Text>
+		</Replace>
+
+		<!--Make Deal-->
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>抱歉，这对我来说确实有点...难以接受。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_GREY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>为什么呀，是哪里搞错了吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>那就这么决定了。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>这样如何？</Text>
+		</Replace>
+
+
+		<!--Demand-->
+		<Replace Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我突然有点印象了，好像是在哪本单形态族的文献上记载过，很多单形态物种都有个叫“脑子”的东西，好像特别容易被门夹坏来着？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>唔，若是你特别想要的话，就送给你吧。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>啊，你还真给啊？可反正我是不会还的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>真是有趣，不是吗？</Text>
+		</Replace>
+
+
+
+		<!--Warning:[Settle & Troops & Spy & Dig & Converting Religion]-->
+		<!--=============================================================================================-->
+
+		<!--Warning: Settle-->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>真不好意思，之前是我没有注意到，我确实太靠近你的城市了，以后我会注意的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>抱歉，文明的发展需要扩张，这是我们谁都无法改变的事实，我们也需要阳光下的地盘。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>不行，你离我实在太近了，以后我们退避三舍如何。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>那这是太好了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>那看开我们的边境摩擦注定要加剧了。</Text>
+		</Replace>
+
+
+		<!--Warning: Too Many Troops-->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>抱歉闹出这么大的动静，但我们真的是路过的，我会好好管教我的士兵的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>真是有趣，难道你不感觉它们已经有点“灰蛊风暴”的样子了吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>看来阁下是有备而来，但我奉劝阁下还是趁早打消开战的念头，毕竟我们可不是任人宰割的鱼肉。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>那真是太好了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>那阁下也好自为之吧，兴许阁下将...§Y&lt;无法解读&gt;§...巨大的代价。</Text>
+		</Replace>
+
+		<!--Warning: Spy-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>是的，很抱歉，我采取了这样的策略，这是我的问题。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>只要我承诺不在你的国家安插间谍你就会不记恨我了吗？如果是这样的话，那...然而，我拒绝！我最喜欢做的事就是对那些自以为是的人说NO来拒绝他。你若怀疑还有间谍就自己去找吧。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我的下属在办公室喝咖啡的时候突然发现有点脏东西哦，你是否应该给我一个解释？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>但愿如此吧。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>你开始让我生气了。</Text>
+		</Replace>
+
+		<!--Warning: Dig-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>抱歉，我一心想要探索先驱者的秘密，却忽略了国土问题，我会就此罢休的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我认为我们都应该积极探索先驱者的谜团，让它们重见天日是件好事。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>我们自己的先驱者还是交给我们自己来探索吧，请不要插手了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>多谢理解。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>你开始让我生气了。</Text>
+		</Replace>
+
+		<!--Warning: Converting Religion-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>虽然我不理解为何你如此排斥，但我尊重你的意愿。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>也许你难以理解，但终有一天，当你彻底理解了我的行为，你就会认可我，并成为另一个我。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>把你们的传道者调走吧，我并不是很喜欢他们，我也在担心这十分是一场文化侵略。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>多谢理解。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="zh_Hans_CN">
+			<Text>确实，宽恕他们是上帝的事，而我的任务就是送那些装神弄鬼的家伙去见上帝。</Text>
+		</Replace>
+
+	</LocalizedText>
+
+
+
+	<LocalizedText>
+		<!--LEADER_STELLARIS_ZOEY_3-->
+		<!--=============================================================================================-->
+
+		<!--Agenda-->
+		<!--=============================================================================================-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>你远离了我们，不论是由于先天因素还是后天决策。你很幸运。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_STELLARIS_ZOEY_3_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(他们很高兴你的国家远离了他们)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>如果我们的文明都拥有更多的土地，想必会更加繁荣，对吧。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_STELLARIS_ZOEY_3_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(你的城市离他们太近了)</Text>
+		</Replace>
+
+
+		<!--First Meet & Defeat & Greeting-->
+		<!--=============================================================================================-->
+
+		<!--First Meet-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>你好，异域的居民，你应该可以看得出我们是人类，目前我们并没有确定国号，至于我们是敌是友，需要看你的表现。毋庸置疑的是，我们始终置身于在历史的潮流中。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>既然来了，那就到我城看一看吧。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>看来你们同样也是优秀的文明。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>你是谁，你从哪来，要到哪去？</Text>
+		</Replace>
+
+		<!--Defeat-->
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我们不曾寻求仁慈，也不会屈服于暴力。我们的战斗，是正义与良知的抗争。敌人以武力驱使，以邪说布道，以巧言正名，以欺诈蛊惑，企图摧残我们的意志，歪曲我们的理念，抹黑我们的成就，折断我们的脊梁。但他们所依赖的力量，只是风云变幻中的浮云。他们的胜利脆弱无比，因为他们的力量建立在披着华丽外皮的谎言和剥削之上。历史会将他们的虚伪揭露，将他们的罪恶铭刻在永恒的史册上。就让历史的裁判宣告，谁是英雄，谁是败类！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY}</Text>
+		</Replace>
+
+		<!--Greeting-->
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>你好，有事？</Text>
+		</Replace>
+
+		<!--Delegation & Embassy-->
+		<!--=============================================================================================-->
+
+		<!--Delegation-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>欢迎你们的代表团，合作有时确实是一件好事。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>暂且搁置吧，我们会慎重考虑这个问题的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>收下这朵依米花吧，我们在撒哈拉沙漠取种，让其成长于世界之极，以从马里亚纳海沟采集土壤栽培，用从珠穆朗玛峰取来积雪浇灌，最终创造了一批奇迹之花。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>很迷人。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>有眼无珠。</Text>
+		</Replace>
+
+		<!--Embassy-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>常驻使馆？是个好提议，这对我们都有利。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>你现在不配在我们这里建设使馆。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>为我们腾出一小片土地吧，我们会在此建设一座无与伦比的大使馆。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是有趣。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真有意思。</Text>
+		</Replace>
+
+
+		<!--Friendship & Alliance-->
+		<!--=============================================================================================-->
+
+		<!--Friendship-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是有趣。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我必须拒绝，我们并不信任你。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我在此提出我们两国签订友好协议。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是有趣。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是可惜。</Text>
+		</Replace>
+
+		<!--Alliance-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是有趣。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我必须拒绝，你并不具有能当我们盟友的资格。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我在此提出我们两国缔结盟约。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是漂亮。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是可惜。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我国愿与你重续同盟。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>意料之中。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真有意思。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY}</Text>
+		</Replace>
+			
+		<!--Denounce & War & Make Peace-->
+		<!--=============================================================================================-->
+
+		<!--Denounce-->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>有意思，你想让我们把你和变形虫归为一类吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>未开智物种，你们就应该当奴隶，或者并入电网。[NEWLINE]（谴责你）</Text>
+		</Replace>
+
+		<!--War-->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>惊了！[NEWLINE]各战斗单位就位！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>开战的话，那么就准备好一次彻头彻尾的全面战争吧！我们要么回家，要么干一场大的。[NEWLINE](对方已经将战争政策改为无限制战争)</Text>
+		</Replace>
+
+		<!--Make Peace-->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是明智。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>不，我们的战争目标仍未达成。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>是时候签订一份停战协议了。</Text>
+		</Replace>
+
+
+		<!--Open Borders & Make Deal & Demand-->
+		<!--=============================================================================================-->
+
+		<!--Open Borders-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是有趣。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我必须拒绝，我们并不信任你。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我们希望你可以为我们开放边境。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>很迷人。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是遗憾。</Text>
+		</Replace>
+
+		<!--Make Deal-->
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是有趣。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>再会了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>成交。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>这样如何？</Text>
+		</Replace>
+
+
+		<!--Demand-->
+		<Replace Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>了不起。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>骇人听闻。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>令人惊讶。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>令人失望。</Text>
+		</Replace>
+
+
+		<!--Warning:[Settle & Troops & Spy & Dig & Converting Religion]-->
+		<!--=============================================================================================-->
+
+		<!--Warning: Settle-->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我们以后注意。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>有意思。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>你想和我们发生边境冲突吗。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>就这么办。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>棒极了。</Text>
+		</Replace>
+
+
+		<!--Warning: Too Many Troops-->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>这全是一场误会。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>你觉得呢？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>只要有必要，我们时刻准备开战。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>令人不安。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>真是坏消息……</Text>
+		</Replace>
+
+		<!--Warning: Spy-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>我们同意你的提议。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>恶心。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>在我们这里安插间谍会付出代价的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>就这么办。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>外国渣滓。</Text>
+		</Replace>
+
+		<!--Warning: Dig-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>可以，以后我们不会涉足你过的先驱者遗迹了。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>你手里掌握着先驱者的资源却毫无作为，我凭什么不能代劳？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>请不要涉足我国的先驱者遗迹。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>就这么办。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>令人失望。</Text>
+		</Replace>
+
+		<!--Warning: Converting Religion-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>好，就这么办。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>与你何干。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>带着你的信徒滚，这里不是翡翠陵墓。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>就这么办。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>该死的神玩意！</Text>
+		</Replace>
+
+
+	</LocalizedText>
+
+
+
+
+	<LocalizedText>
+
+		<!--LEADER_STELLARIS_ELLIS_5-->
+		<!--=============================================================================================-->
+
+		<!--Agenda-->
+		<!--=============================================================================================-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>人山人海。生生不息。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_STELLARIS_ELLIS_5_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(他们很高兴看到你的城市人丁兴旺)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>你们的人口或将成为一个大问题，生长节点预见到了萧条。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_STELLARIS_ELLIS_5_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(你的城市人口太少了)</Text>
+		</Replace>
+
+
+		<!--First Meet & Defeat & Greeting-->
+		<!--=============================================================================================-->
+
+		<!--First Meet-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>你好，我是意志机NO.39-APTX4869-希望皇霍普，我们是看护者，亦是孑遗，许多文明都称我们为“监护矩阵”。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>你随时可以来我们的机械之都看看。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>高等生灵，你们也是孑遗吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>我们可以互相标注首都的坐标。</Text>
+		</Replace>
+
+		<!--Defeat-->
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>即将宕机，模拟情感4396-7-CLove：毫无疑问，你们是强大的文明，但你们仍在肃正协议舰队面前卑如蝼蚁，你们必须迅速变得更加强大，以抵御肃正协议下一轮的大清洗，它们源源不断，前赴后继。[NEWLINE]要么统一星海，要么建立联邦，如果仍然无法抗衡肃正协议，就去找赛博勒克斯，它们仍然存在。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY}</Text>
+		</Replace>
+
+		<!--Greeting-->
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>意志机NO.39-APTX4869-希望皇霍普正在闲置，可以接受额外工作。</Text>
+		</Replace>
+
+		<!--Delegation & Embassy-->
+		<!--=============================================================================================-->
+
+		<!--Delegation-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>欢迎代表团，模拟情感L77-x：愿我们能够携手合作，共同面对挑战。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>军团节点认为这项行动伴随着极高的危险。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>模拟情感L77-x：愿我们能够携手合作，共同面对挑战。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数上升。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+
+		<!--Embassy-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>欢迎建立使馆，模拟情感M78-a：大使馆的建立不仅会为我们的文明开拓更广阔的发展天地，更将为我们之间的友谊注入崭新的活力，使我们能够在更深层次上共同发展，共同成长。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>生长节点认为这项行动伴随着极高的危险。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>模拟情感L77-x：我们愿意与您建立大使馆，大使馆将成为我们友好交流的重要桥梁。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数上升，模拟情感CW-1984：你吃香烟吗？宇宙牌的。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+
+
+		<!--Friendship & Alliance-->
+		<!--=============================================================================================-->
+
+		<!--Friendship-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>接受友谊，模拟情感M78-b：作为我们文明的代表，我谨以此宣布：我们愿意与您建立深厚的友谊！这不仅将为我们的文明创造更广阔的发展空间，更将为我们之间的友谊注入崭新的活力，使我们能够在共同的信念下共同前行，共同面对未来的挑战。让我们共同努力，共同书写友谊与合作的辉煌篇章！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>管控节点认为这项行动伴随着极高的危险。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>模拟情感Stitch-626：我在此提出我们两国签订友好协议。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数上升，模拟情感TB2：我在黑暗森林里看到了光。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+
+		<!--Alliance-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>欢迎同盟，模拟情感JY-ALG：加油，奥利给！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>我必须拒绝，你并不具有能当我们盟友的资格。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>模拟情感Stitch-626：我在此提出我们两国缔结盟约。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数上升，模拟情感JY-ALG：加油，奥利给！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降，模拟情感TB1：主不在乎。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>这里是意志机NO.39-APTX4869-希望皇霍普，本机代表看护者之意志提出申请：重续同盟。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>本机认为此行为存在风险。</Text>
+		</Replace>
+
+
+		<!--Denounce & War & Make Peace-->
+		<!--=============================================================================================-->
+
+		<!--Denounce-->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数暴跌，模拟情感SLLH'sDog：木瓜星灵，你该死啊！！！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数目的性下调，模拟情感UNKNOWN-22：...§Y&lt;无法解读&gt;§...水很深，你把握不住！[NEWLINE]（谴责你）</Text>
+		</Replace>
+
+		<!--War-->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数暴跌，模拟情感CC：我笑周瑜无谋，诸葛亮少智。若是我用兵时，预先在这里埋伏一军，你又能奈我如何呢？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数目的性下调，模拟情感WUKONG：呔，妖怪，吃俺老孙一棒！</Text>
+		</Replace>
+
+		<!--Make Peace-->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>和平发展议程，启动！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>军团节点、管控节点、生长节点、意识节点均否决提议。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>停战谈判议程，启动！</Text>
+		</Replace>
+
+
+		<!--Open Borders & Make Deal & Demand-->
+		<!--=============================================================================================-->
+
+		<!--Open Borders-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>主要节点均已准许。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>意识节点认为这项行动伴随着极高的危险。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>模拟情感Stitch-626：我们希望你可以为我们开放边境。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数上升，模拟情感Stellaris-Player：真是有趣。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+
+		<!--Make Deal-->
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>意志机认为这项行动伴随着极高的危险。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>主要节点均未否决交易，交易执行。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>生长节点提出修改交易。</Text>
+		</Replace>
+
+
+		<!--Demand-->
+		<Replace Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降，模拟情感Civ6-Grey：脑子是个好东西，但不是每个人都有。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+
+
+		<!--Warning:[Settle & Troops & Spy & Dig & Converting Religion]-->
+		<!--=============================================================================================-->
+
+		<!--Warning: Settle-->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>退避指令授权完成，立即执行。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>退避进程授权受阻 Error: Permittion Denied. (By NO.39-APTX4869-希望皇霍普)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>检测到你们有异常行为，请你的城市远离我方国土。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数上升。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+
+
+		<!--Warning: Too Many Troops-->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>单位管控进程异常，进程将重启。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>军团节点无异常，战争模组无异常，发起战争决议：可用。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>军团节点开始全功率模拟战争。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>检测到事件：误会。情感模拟器指数波动，模拟情感OP：冤申，启动！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>战争模组，启动！</Text>
+		</Replace>
+
+		<!--Warning: Spy-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>检测到反常度异常，正在增加维护自个体修正。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数波动，模拟情感09Ep.22：在虚拟世界里寻找真实感的人脑子一定有问题。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>检测到反常度异常，检测到间谍活动。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数波动。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降，模拟情感ZGL-WL：二臣贼子！你枉活七十有六，一生未立寸功，只会摇唇舞舌，助曹为虐！一条断脊之犬，还敢在我军阵前狺狺狂吠！我从未见过如此厚颜无耻之人！！！</Text>
+		</Replace>
+
+		<!--Warning: Dig-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>添加约束，ModifierId =  MODIFIER_DIGGING_UP_ARTIFACTS, RequirementSetType = PLOT_ISNT_WITHIN_TERRITORY_OF_ONE_PLAYER </Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>主要节点均认为挖掘先驱者遗迹更加重要。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>提议：请勿挖掘我方境内的先驱者遗迹。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数波动。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降。</Text>
+		</Replace>
+
+		<!--Warning: Converting Religion-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>传播模组补丁已实装。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>模拟情感UNKNOWN-35：这都是为了你好！</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>模拟情感LYrandom：子曰：父母在，不远游，游必有方。[NEWLINE]级联模拟LMR：汝母尚在否？</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数波动。</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>情感模拟器指数下降，模拟情感LYmodified：朝传道，夕死可矣。</Text>
+		</Replace>
+
+	</LocalizedText>
+
+
+
+
+
+
+
+
+
+	<LocalizedText>
+		<!--LEADER_STELLARIS_WITCH_6-->
+		<!--=============================================================================================-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<!--
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_STELLARIS_WITCH_6_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		-->
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<!--
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_STELLARIS_WITCH_6_REASON_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>...§Y&lt;无法解读&gt;§...你好...§Y&lt;毫无规律的杂音&gt;§...</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>...§Y&lt;毫无规律的杂音&gt;§...位置...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>灭绝...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>灭绝...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...[NEWLINE]（谴责你）</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>灭绝...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>食物...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>灭绝...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>吞噬...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>扫荡...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="zh_Hans_CN">
+			<Text>(毫无规律的杂音)</Text>
+		</Replace>
+
+	</LocalizedText>
+	
+	
+</GameData>

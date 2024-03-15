@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- zh_Hans_CN -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 3/4/2024 9:02:44 PM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_WITCH_6_NAME" Language="zh_Hans_CN">
+			<Text>杀戮本能</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_WITCH_6_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>它们的眼中尽是杀戮与吞噬,十分危险。</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_DEVOURING_DES" Language="zh_Hans_CN">
+			<Text>噬杀蜂群的敌意</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_DEVOURING_KEY" Language="zh_Hans_CN">
+			<Text>刺耳的杂音...(噬杀蜂群的敌意)</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_ARMY_DES" Language="zh_Hans_CN">
+			<Text>你有大量的常备军</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_ARMY_KEY" Language="zh_Hans_CN">
+			<Text>刺耳的杂音...(你有大量的常备军)</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_ARMY_2_DES" Language="zh_Hans_CN">
+			<Text>你的常备军太少了</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_ARMY_2_KEY" Language="zh_Hans_CN">
+			<Text>刺耳的杂音...(也许你的常备军太少了)</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_NEIGHBORS_DES" Language="zh_Hans_CN">
+			<Text>也许它想要吞噬邻居</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_WITCH_6_NEIGHBORS_KEY" Language="zh_Hans_CN">
+			<Text>刺耳的杂音...(也许它想要吞噬邻居)</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_ELLIS_5_NAME" Language="zh_Hans_CN">
+			<Text>催化组装</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_ELLIS_5_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>
+				喜欢用食物催化成的合金在城市中组装[ICON_Citizen]人口，
+				喜欢城市中拥有大量[ICON_Citizen]人口的文明，
+				讨厌[ICON_Citizen]人口少的文明。
+			</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ELLIS_5_POPULATION_DES" Language="zh_Hans_CN">
+			<Text>喜欢有较多人口的文明</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ELLIS_5_POPULATION_KEY" Language="zh_Hans_CN">
+			<Text>很高兴能看到你的城市人山人海，繁荣兴旺。</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ELLIS_5_POPULATION_2_DES" Language="zh_Hans_CN">
+			<Text>讨厌人口少的文明</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ELLIS_5_POPULATION_2_KEY" Language="zh_Hans_CN">
+			<Text>你的城市看起来有些萧条。</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_ZOEY_3_NAME" Language="zh_Hans_CN">
+			<Text>一统繁荣</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_ZOEY_3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>不喜欢邻国，会尝试征服邻国。</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ZOEY_3_NEIGHBORS_DES" Language="zh_Hans_CN">
+			<Text>不喜欢与自己有边境摩擦的文明</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_ZOEY_3_NEIGHBORS_KEY" Language="zh_Hans_CN">
+			<Text>更加广袤的国土会使我们变得更强，对吧？</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_GREY_NAME" Language="zh_Hans_CN">
+			<Text>卓越科技</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_LEADER_STELLARIS_GREY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>追求获得更高的[ICON_Science]科技值,喜欢科技发达的文明，讨厌科技欠发达的文明。</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_GREY_SCIENCE_DES" Language="zh_Hans_CN">
+			<Text>喜欢科技发达的文明</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_GREY_SCIENCE_KEY" Language="zh_Hans_CN">
+			<Text>你们的科技好发达呀，是有什么秘诀吗？</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_GREY_SCIENCE_2_DES" Language="zh_Hans_CN">
+			<Text>讨厌科技欠发达的文明</Text>
+		</Replace>
+		<Replace Tag="LOC_MODIFIER_TRAIT_AGENDA_LEADER_STELLARIS_GREY_SCIENCE_2_KEY" Language="zh_Hans_CN">
+			<Text>总感觉你的发展怪怪的，或许你应该追赶一下科技？</Text>
+		</Replace>
+
+
+
+	</LocalizedText>
+</GameData>
+
+

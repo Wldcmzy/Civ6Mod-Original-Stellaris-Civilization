@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Building_Offspring_Nest -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 3/1/2024 6:16:45 PM -->
+
+<GameData>
+	
+	<Types>
+		<Row Type="BUILDING_OFFSPRING_NEST" Kind="KIND_BUILDING"/>
+		<Row Type="TRAIT_BUILDING_OFFSPRING_NEST" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Buildings>
+		<Row
+			BuildingType="BUILDING_OFFSPRING_NEST"
+			Name="LOC_BUILDING_OFFSPRING_NEST_NAME"
+			Description="LOC_BUILDING_OFFSPRING_NEST_DESCRIPTION"
+			PrereqDistrict="DISTRICT_CITY_CENTER"
+			PurchaseYield="YIELD_GOLD"
+			Cost="30"
+			AdvisorType="ADVISOR_GENERIC"
+			Entertainment="2"
+			TraitType="TRAIT_BUILDING_OFFSPRING_NEST"
+		/>
+	</Buildings>
+
+	<Traits>
+		<Row
+			TraitType="TRAIT_BUILDING_OFFSPRING_NEST"
+			Name="LOC_BUILDING_OFFSPRING_NEST_NAME"
+			Description="LOC_BUILDING_OFFSPRING_NEST_DESCRIPTION"
+		/>
+	</Traits>
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_STELLARIS_WITCH_6" TraitType="TRAIT_BUILDING_OFFSPRING_NEST"/>
+	</LeaderTraits>
+
+	<BuildingModifiers>
+		<Row>
+			<BuildingType>BUILDING_OFFSPRING_NEST</BuildingType>
+			<ModifierId>MODIFIER_TRAIT_BUILDING_OFFSPRING_NEST_PLOT_FOOD</ModifierId>
+		</Row>
+	</BuildingModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>MODIFIER_TRAIT_BUILDING_OFFSPRING_NEST_PLOT_FOOD</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MODIFIER_TRAIT_BUILDING_OFFSPRING_NEST_PLOT_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MODIFIER_TRAIT_BUILDING_OFFSPRING_NEST_PLOT_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+	</ModifierArguments>
+
+
+	<BuildingModifiers>
+		<Row>
+			<BuildingType>BUILDING_OFFSPRING_NEST</BuildingType>
+			<ModifierId>BUILDING_OFFSPRING_NEST_HOUSING</ModifierId>
+		</Row>
+	</BuildingModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>BUILDING_OFFSPRING_NEST_HOUSING</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_CITY_ADJUST_BUILDING_HOUSING</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>BUILDING_OFFSPRING_NEST_HOUSING</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+	</ModifierArguments>
+
+</GameData>

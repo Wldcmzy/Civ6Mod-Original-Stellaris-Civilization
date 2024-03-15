@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text_en_US_chatGPT -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 3/11/2024 10:52:26 AM -->
+
+<GameData>
+	<LocalizedText>
+
+		<Replace Tag="LOC_CIVILIZATION_ORIGINALSTELLARIS_NAME" Language="en_US">
+			<Text>Original Stellaris Civilization</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ORIGINALSTELLARIS_DESCRIPTION" Language="en_US">
+			<Text>Original Stellaris Civilization</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ORIGINALSTELLARIS_ADJECTIVE" Language="en_US">
+			<Text>Original Stellaris Civilization's</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_ORIGINALSTELLARIS_NAME" Language="en_US">
+			<Text>The Fourth Crisis</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_ORIGINALSTELLARIS_DESCRIPTION" Language="en_US">
+			<Text>Unlocks special projects after acquiring "Nuclear Fusion" technology: Colossus Project, leaders without the "Custodian Matrix" trait unlock special project: Become the Crisis, leaders without the "Devouring Swarm" trait unlock special project: One Voice Rules.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_LEADER_STELLARIS_ZOEY_3_NAME" Language="en_US">
+			<Text>Zoey (Original Earthling)</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_STELLARIS_ZOEY_3_NAME" Language="en_US">
+			<Text>Prosperous Unification</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_STELLARIS_ZOEY_3_DESCRIPTION" Language="en_US">
+			<Text>When founding the first city, receive an additional 1 [ICON_Citizen] Population, receive 1 Builder, 1 Scout, 1 Monument, and 1 Ancient Walls, and receive 50 [ICON_Gold] Gold at standard speed. Capital: +2 [ICON_Food], +2 [ICON_Production].</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_ZOEY_3_QUOTE" Language="en_US">
+			<Text></Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_LEADER_STELLARIS_WITCH_6_NAME" Language="en_US">
+			<Text>Witch (Original Swarm)</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_STELLARIS_WITCH_6_NAME" Language="en_US">
+			<Text>Progenitor Hive and Devouring Swarm</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_STELLARIS_WITCH_6_DESCRIPTION" Language="en_US">
+			<Text>Progenitor Hive: Can construct unique building Offspring Nest, cities without Offspring Nest -2 [ICON_Amenities], first city automatically receives Offspring Nest. Devouring Swarm: Your city loyalty is locked at 100%, but unable to exert loyalty pressure externally. AI diplomatic rating towards you -1000, diplomatic favor -1000 per turn. Military slot +1, War Weariness -100%. Military unit production speed +34%, combat strength +5 [ICON_Strength], maintenance cost -1 [ICON_Gold], all units +1 [ICON_Movement] movement. After capturing a city, the city's original population will be devoured, and devoured population will gain [ICON_Culture] Culture based on era and game speed.(For each devoured population, gain 33.4% of the [ICON_Culture] Culture required to unlock the current era's most advanced civic).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_WITCH_6_QUOTE" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="MODIFIER_TRAIT_LEADER_MAJOR_CIV_HEAT_DEVOURING_SWARM_DES" Language="en_US">
+			<Text>Extremely cautious of Devouring Swarm.</Text>
+		</Replace>
+		<Replace Tag="MODIFIER_TRAIT_LEADER_MAJOR_CIV_HEAT_DEVOURING_SWARM_KEY" Language="en_US">
+			<Text>So void, so bloody, so perilous....</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEADER_STELLARIS_WITCH_6_EXTRA_MOVEMENT_NAME" Language="en_US">
+			<Text>Devouring Swarm: Rapid</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEADER_STELLARIS_WITCH_6_EXTRA_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>Devouring Swarm: +1 [ICON_Movement] Movement</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEADER_STELLARIS_WITCH_6_EXTRA_STRENGTH_NAME" Language="en_US">
+			<Text>Devouring Swarm: Potent</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LEADER_STELLARIS_WITCH_6_EXTRA_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>Devouring Swarm: +5 [ICON_Strength] Combat Strength</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_LEADER_STELLARIS_ELLIS_5_NAME" Language="en_US">
+			<Text>Ellis (Original Caretaker)</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_STELLARIS_ELLIS_5_NAME" Language="en_US">
+			<Text>Custodian Matrix</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_STELLARIS_ELLIS_5_DESCRIPTION" Language="en_US">
+			<Text>Experiences massive negative effects if the number of cities exceeds 4, each additional city results in the following effects: 1. All cities lose 1 [ICON_Citizen] Population per turn, 2. All cities lose loyalty by 33 per turn (increases in loyalty do not cause city rebellion), 3. -200 [ICON_Gold] Gold per turn. [Friendly reminder: Don't randomly attack others' capitals.] AI diplomatic rating towards you +15. All city yields +5%, but if a city is beyond 6 tiles from the capital, change to -80% yield. Cities have unlimited [ICON_Housing] Housing. City growth rate +10%, cities with Industrial Zones change to +25%, cities with Factories change to +45%. Features the unique project "Maintenance Drone Upgrading". Each citizen in a city provides +1 [ICON_Production] Production, after reaching 7 population, each citizen provides +1 [ICON_Gold] Gold, after reaching 14 population, each citizen provides +1 [ICON_Science] Science, +1 [ICON_Culture] Culture, after reaching 21 population, each citizen provides +1 [ICON_Food] Food.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_ELLIS_5_QUOTE" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="MODIFIER_TRAIT_LEADER_MAJOR_CIV_LIKE_MITRIX_DES" Language="en_US">
+			<Text>Enthusiastic about non-expansionist policies.</Text>
+		</Replace>
+		<Replace Tag="MODIFIER_TRAIT_LEADER_MAJOR_CIV_LIKE_MITRIX_KEY" Language="en_US">
+			<Text>We're happy to be friends with the Custodian Matrix.</Text>
+		</Replace>
+
+
+
+
+		<Replace Tag="LOC_LEADER_STELLARIS_GREY_NAME" Language="en_US">
+			<Text>Grey</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_STELLARIS_GREY_NAME" Language="en_US">
+			<Text>Nanorobot Tech Insights</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_STELLARIS_GREY_DESCRIPTION" Language="en_US">
+			<Text>All cities +10% [ICON_Science]. Academies receive +1 adjacency bonus from adjacent areas, and provide [ICON_Production] Production equivalent to the adjacency bonus. After entering the Information Age in technology, automatically acquire the "Nanotechnology" and "Robotics" technologies, city science output gain increases to +50% [ICON_Science].</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_STELLARIS_GREY_QUOTE" Language="en_US">
+			<Text></Text>
+		</Replace>
+
+
+
+
+
+
+		<Replace Tag="LOC_PROJECT_BECOME_THE_CRISIS_NAME" Language="en_US">
+			<Text>Become the Crisis</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_BECOME_THE_CRISIS_SHORT_NAME" Language="en_US">
+			<Text>Become the Crisis</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_BECOME_THE_CRISIS_DESCRIPTION" Language="en_US">
+			<Text>Special project of the Original Stellaris Civilization, upon completion, all AI diplomatic rating towards you -1000, all cities +100% [ICON_Production], +50% [ICON_Gold], all military units +10 [ICON_Strength], gain 15 Uranium per turn.</Text>
+		</Replace>
+		<Replace Tag="MODIFIER_TRAIT_LEADER_MAJOR_CIV_HEAT_THE_CRISIS_DES" Language="en_US">
+			<Text>Extremely wary of the Crisis Civilization.</Text>
+		</Replace>
+		<Replace Tag="MODIFIER_TRAIT_LEADER_MAJOR_CIV_HEAT_DEVOURING_SWARM_KEY" Language="en_US">
+			<Text>The Fourth Crisis...</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_THE_CRISIS_STRENGTH_NAME" Language="en_US">
+			<Text>Power of Crisis</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_THE_CRISIS_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>Power of Crisis: +10 [ICON_Strength] Combat Strength</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_PROJECT_LOSSUS_PROJECT_NAME" Language="en_US">
+			<Text>Colossus Project</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_LOSSUS_PROJECT_SHORT_NAME" Language="en_US">
+			<Text>Colossus Project</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_LOSSUS_PROJECT_DESCRIPTION" Language="en_US">
+			<Text>Special project of the Original Stellaris Civilization, upon completion, assemble an Giant Death Robot in your capital, providing three Uranium per turn.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_PROJECT_ONE_VOICE_RULES_NAME" Language="en_US">
+			<Text>One Voice Rules</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_ONE_VOICE_RULES_SHORT_NAME" Language="en_US">
+			<Text>One Voice Rules</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_ONE_VOICE_RULES_DESCRIPTION" Language="en_US">
+			<Text>
+				Special project of the Original Stellaris Civilization, upon completion, +300 diplomatic favor per turn.
+			</Text>
+		</Replace>
+
+
+
+
+		<Replace Tag="LOC_PROJECT_YYWHZGTZM_NAME" Language="en_US">
+			<Text>Maintenance Drone Upgrading</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_YYWHZGTZM_SHORT_NAME" Language="en_US">
+			<Text>Maintenance Drone Upgrading</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_YYWHZGTZM_DESCRIPTION" Language="en_US">
+			<Text>Special feature project of leaders with the Custodian Matrix trait, requires significant production, upon completion, permanently increases city amenities by +3.</Text>
+		</Replace>
+
+
+
+		<Replace Tag="LOC_BUILDING_OFFSPRING_NEST_NAME" Language="en_US">
+			<Text>Offspring Nest</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_OFFSPRING_NEST_DESCRIPTION" Language="en_US">
+			<Text>Exclusive to the Progenitor Hive trait, +2 Amenities, +2 Housing, +1 Food for each tile in the city.</Text>
+		</Replace>
+
+
+
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- zh_Hans_CN -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 2/25/2024 12:32:16 AM -->
+
+<GameData>
+	<LocalizedText>
+		
+		<Replace Tag="LOC_CITY_L" Language="zh_Hans_CN">
+			<Text>L之城</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SOL" Language="zh_Hans_CN">
+			<Text>太阳</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CPU" Language="zh_Hans_CN">
+			<Text>中央处理器</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZETA_RETICULI" Language="zh_Hans_CN">
+			<Text>网罟座泽塔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_AQUILAE" Language="zh_Hans_CN">
+			<Text>河鼓一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_CAELI" Language="zh_Hans_CN">
+			<Text>雕具座贝塔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_CORVI" Language="zh_Hans_CN">
+			<Text>轸宿四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_HYDRI" Language="zh_Hans_CN">
+			<Text>蛇尾一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_EPSILON_ERIDANI" Language="zh_Hans_CN">
+			<Text>天苑四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_EPSILON_INDI" Language="zh_Hans_CN">
+			<Text>印第安座伊普西龙</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TAU_CETI" Language="zh_Hans_CN">
+			<Text>天仓五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SIGMA_DRACONIS" Language="zh_Hans_CN">
+			<Text>天厨二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TAU_CYGNI" Language="zh_Hans_CN">
+			<Text>天津六</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHA_HYDRI" Language="zh_Hans_CN">
+			<Text>蛇首一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CHI_DRACONIS" Language="zh_Hans_CN">
+			<Text>御女四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DELTA_PAVONIS" Language="zh_Hans_CN">
+			<Text>孔雀六</Text>
+		</Replace>
+	
+		<Replace Tag="LOC_CITY_GAMMA_DRACONIS" Language="zh_Hans_CN">
+			<Text>天棓四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_LAMBDA_SERPENTIS" Language="zh_Hans_CN">
+			<Text>蜀增一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_OMICRON_PERSEI" Language="zh_Hans_CN">
+			<Text>卷舌五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DELTA_CEPHEI" Language="zh_Hans_CN">
+			<Text>造父一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_URSAE_MAJORIS" Language="zh_Hans_CN">
+			<Text>天璇</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHA_CANIS" Language="zh_Hans_CN">
+			<Text>天狼</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_EPSILON_CYGNI" Language="zh_Hans_CN">
+			<Text>天津九</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHA_LYNCIS" Language="zh_Hans_CN">
+			<Text>轩辕四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_THETA_SCORPII" Language="zh_Hans_CN">
+			<Text>尾宿五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KAUS_BOREALIS" Language="zh_Hans_CN">
+			<Text>斗宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GAMMA_DELPHINI" Language="zh_Hans_CN">
+			<Text>瓠瓜增七</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GAMMA_VELORUM" Language="zh_Hans_CN">
+			<Text>天社一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MU_OPHIUCHI" Language="zh_Hans_CN">
+			<Text>市楼一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ACHERNAR" Language="zh_Hans_CN">
+			<Text>水委一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ACRUX" Language="zh_Hans_CN">
+			<Text>十字架二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALAMAK" Language="zh_Hans_CN">
+			<Text>天大将军一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALCOR" Language="zh_Hans_CN">
+			<Text>开阳增一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHARD" Language="zh_Hans_CN">
+			<Text>星宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ANGETENAR" Language="zh_Hans_CN">
+			<Text>天苑九</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_AZHA" Language="zh_Hans_CN">
+			<Text>天苑六</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BEID" Language="zh_Hans_CN">
+			<Text>九州殊口二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BIHAM" Language="zh_Hans_CN">
+			<Text>危宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BOTEIN" Language="zh_Hans_CN">
+			<Text>天阴四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BRACHIUM" Language="zh_Hans_CN">
+			<Text>折威七</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BUNDA" Language="zh_Hans_CN">
+			<Text>天垒城一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CELAENO" Language="zh_Hans_CN">
+			<Text>昴宿增九</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CHARA" Language="zh_Hans_CN">
+			<Text>常陈四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CURSA" Language="zh_Hans_CN">
+			<Text>玉井三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DABIH" Language="zh_Hans_CN">
+			<Text>牛宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_EDASICH" Language="zh_Hans_CN">
+			<Text>紫微左垣一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HADAR" Language="zh_Hans_CN">
+			<Text>马腹一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HAEDUS" Language="zh_Hans_CN">
+			<Text>柱二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HEZE" Language="zh_Hans_CN">
+			<Text>角宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HOMAM" Language="zh_Hans_CN">
+			<Text>雷电一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_IZAR" Language="zh_Hans_CN">
+			<Text>梗河一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KRAZ" Language="zh_Hans_CN">
+			<Text>轸宿四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KUMA" Language="zh_Hans_CN">
+			<Text>天棓二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MATAR" Language="zh_Hans_CN">
+			<Text>离宫四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MERGA" Language="zh_Hans_CN">
+			<Text>玄戈增二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MEROPE" Language="zh_Hans_CN">
+			<Text>昴宿五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MIRA" Language="zh_Hans_CN">
+			<Text>刍蒿增二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MIRZAM" Language="zh_Hans_CN">
+			<Text>军市一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ACAMAR" Language="zh_Hans_CN">
+			<Text>天园六</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ACUBENS" Language="zh_Hans_CN">
+			<Text>柳宿增三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALDEBARAN" Language="zh_Hans_CN">
+			<Text>毕宿五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALGOL" Language="zh_Hans_CN">
+			<Text>大陵五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALGORAB" Language="zh_Hans_CN">
+			<Text>轸宿三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALIOTH" Language="zh_Hans_CN">
+			<Text>天枢</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALKAID" Language="zh_Hans_CN">
+			<Text>瑶光</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALMACH" Language="zh_Hans_CN">
+			<Text>娄宿星</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHECCA" Language="zh_Hans_CN">
+			<Text>贯索四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALTAIR" Language="zh_Hans_CN">
+			<Text>河鼓二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALUDRA" Language="zh_Hans_CN">
+			<Text>弧矢二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ANTARES" Language="zh_Hans_CN">
+			<Text>心宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ARCTURUS" Language="zh_Hans_CN">
+			<Text>大角</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ASCELLA" Language="zh_Hans_CN">
+			<Text>斗宿六</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ASTERION" Language="zh_Hans_CN">
+			<Text>常陈四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ASTEROPE" Language="zh_Hans_CN">
+			<Text>昴宿三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ATLAS" Language="zh_Hans_CN">
+			<Text>昴宿七</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BELLATRIX" Language="zh_Hans_CN">
+			<Text>参宿五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETELGEUSE" Language="zh_Hans_CN">
+			<Text>参宿四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CANOPUS" Language="zh_Hans_CN">
+			<Text>老人</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CAPELLA" Language="zh_Hans_CN">
+			<Text>五车二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CAPH" Language="zh_Hans_CN">
+			<Text>王良一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CASTOR" Language="zh_Hans_CN">
+			<Text>北河二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CEBELRAI" Language="zh_Hans_CN">
+			<Text>宗正一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CHELEB" Language="zh_Hans_CN">
+			<Text>蛇夫二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CHERTAN" Language="zh_Hans_CN">
+			<Text>西次相</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DIADEM" Language="zh_Hans_CN">
+			<Text>太微左垣五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DIPHDA" Language="zh_Hans_CN">
+			<Text>土司空</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DNOCES" Language="zh_Hans_CN">
+			<Text>上台一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ELECTRA" Language="zh_Hans_CN">
+			<Text>昴宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ELNATH" Language="zh_Hans_CN">
+			<Text>五车五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ENIF" Language="zh_Hans_CN">
+			<Text>危宿三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ERRAI" Language="zh_Hans_CN">
+			<Text>少卫增八</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_FOMALHAUT" Language="zh_Hans_CN">
+			<Text>北落师门</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_FURUD" Language="zh_Hans_CN">
+			<Text>孙增一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GEMMA" Language="zh_Hans_CN">
+			<Text>贯索四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GIANFAR" Language="zh_Hans_CN">
+			<Text>上辅</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GIEDI" Language="zh_Hans_CN">
+			<Text>牛宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GIRTAB" Language="zh_Hans_CN">
+			<Text>尾宿七</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GOMEISA" Language="zh_Hans_CN">
+			<Text>南河二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GRUMIUM" Language="zh_Hans_CN">
+			<Text>天棓一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HASSELEH" Language="zh_Hans_CN">
+			<Text>五车一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HEKA" Language="zh_Hans_CN">
+			<Text>觜宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HOEDUS" Language="zh_Hans_CN">
+			<Text>柱三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HYADUM" Language="zh_Hans_CN">
+			<Text>毕宿四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_JABBAH" Language="zh_Hans_CN">
+			<Text>键闭</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KEID" Language="zh_Hans_CN">
+			<Text>九州殊口增七</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KOCHAB" Language="zh_Hans_CN">
+			<Text>北极二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KORNEPHOROS" Language="zh_Hans_CN">
+			<Text>天市右垣一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KSORA" Language="zh_Hans_CN">
+			<Text>阁道三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_LESATH" Language="zh_Hans_CN">
+			<Text>尾宿九</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MAASYM" Language="zh_Hans_CN">
+			<Text>天市左垣二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MAIA" Language="zh_Hans_CN">
+			<Text>昴宿四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MARKAB" Language="zh_Hans_CN">
+			<Text>室宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MEISSA" Language="zh_Hans_CN">
+			<Text>觜宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MELEPH" Language="zh_Hans_CN">
+			<Text>梅勒夫</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MENKALINAN" Language="zh_Hans_CN">
+			<Text>门卡利南</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MENKAR" Language="zh_Hans_CN">
+			<Text>天囷一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MESARTHIM" Language="zh_Hans_CN">
+			<Text>娄宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MINCHIR" Language="zh_Hans_CN">
+			<Text>柳宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MINTAKA" Language="zh_Hans_CN">
+			<Text>参宿三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MIRACH" Language="zh_Hans_CN">
+			<Text>奎宿九</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MIZAR" Language="zh_Hans_CN">
+			<Text>开阳</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MUPHRID" Language="zh_Hans_CN">
+			<Text>右摄提一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MUSCIDA" Language="zh_Hans_CN">
+			<Text>内阶一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAOS" Language="zh_Hans_CN">
+			<Text>弧矢增二十二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NASHIRA" Language="zh_Hans_CN">
+			<Text>垒壁阵三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAVI" Language="zh_Hans_CN">
+			<Text>阁道二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NEKKAR" Language="zh_Hans_CN">
+			<Text>七公增五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NEMBUS" Language="zh_Hans_CN">
+			<Text>天大将军三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NIHAL" Language="zh_Hans_CN">
+			<Text>厕二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NUNKI" Language="zh_Hans_CN">
+			<Text>斗宿四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NUSAKAN" Language="zh_Hans_CN">
+			<Text>贯索三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PHACT" Language="zh_Hans_CN">
+			<Text>丈人一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PHERKAD" Language="zh_Hans_CN">
+			<Text>北极一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PLEIONE" Language="zh_Hans_CN">
+			<Text>昴宿增十二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_POERAVA" Language="zh_Hans_CN">
+			<Text>布黳罗缚</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_POLLUX" Language="zh_Hans_CN">
+			<Text>北河三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PORRIMA" Language="zh_Hans_CN">
+			<Text>东上相</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PROPUS" Language="zh_Hans_CN">
+			<Text>钺</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RANA" Language="zh_Hans_CN">
+			<Text>天苑三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RASALAS" Language="zh_Hans_CN">
+			<Text>轩辕十</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RASALGETHI" Language="zh_Hans_CN">
+			<Text>帝座</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RASALHAGUE" Language="zh_Hans_CN">
+			<Text>候</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RASTABAN" Language="zh_Hans_CN">
+			<Text>天棓三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_REGOR" Language="zh_Hans_CN">
+			<Text>天社一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_REGULUS" Language="zh_Hans_CN">
+			<Text>轩辕十四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RIGEL" Language="zh_Hans_CN">
+			<Text>参宿七</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ROTANEV" Language="zh_Hans_CN">
+			<Text>瓠瓜四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RUCHBA" Language="zh_Hans_CN">
+			<Text>阁道三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RUKBAT" Language="zh_Hans_CN">
+			<Text>天渊三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SABIK" Language="zh_Hans_CN">
+			<Text>天市左垣十一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SADALBARI" Language="zh_Hans_CN">
+			<Text>离宫二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SAIPH" Language="zh_Hans_CN">
+			<Text>参宿六</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SARGAS" Language="zh_Hans_CN">
+			<Text>尾宿五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SCEPTRUM" Language="zh_Hans_CN">
+			<Text>九斿增四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SCHEAT" Language="zh_Hans_CN">
+			<Text>室宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SECUNDA_HYADUM" Language="zh_Hans_CN">
+			<Text>毕宿三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SEGINUS" Language="zh_Hans_CN">
+			<Text>招摇</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SHAULA" Language="zh_Hans_CN">
+			<Text>尾宿八</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SHELIAK" Language="zh_Hans_CN">
+			<Text>渐台二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SHERATAN" Language="zh_Hans_CN">
+			<Text>娄宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SITULA" Language="zh_Hans_CN">
+			<Text>虚梁三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SKAT" Language="zh_Hans_CN">
+			<Text>羽林军廿六</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SPICA" Language="zh_Hans_CN">
+			<Text>角宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_STRIBOR" Language="zh_Hans_CN">
+			<Text>斯垂博尔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SUBRA" Language="zh_Hans_CN">
+			<Text>轩辕十五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SYRMA" Language="zh_Hans_CN">
+			<Text>亢宿二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TAIYANGSHOU" Language="zh_Hans_CN">
+			<Text>太阳守</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TAIYI" Language="zh_Hans_CN">
+			<Text>太乙</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TARAZED" Language="zh_Hans_CN">
+			<Text>河鼓三</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TEREBELLUM" Language="zh_Hans_CN">
+			<Text>狗国一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_THABIT" Language="zh_Hans_CN">
+			<Text>参宿增三十六</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_THEEMIN" Language="zh_Hans_CN">
+			<Text>天园九</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_THUBAN" Language="zh_Hans_CN">
+			<Text>紫微右垣一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TONATIUH" Language="zh_Hans_CN">
+			<Text>太阳神</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TUREIS" Language="zh_Hans_CN">
+			<Text>海石二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_VEGA" Language="zh_Hans_CN">
+			<Text>织女一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_VINDEMIATRIX" Language="zh_Hans_CN">
+			<Text>东次将</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_WASAT" Language="zh_Hans_CN">
+			<Text>天樽二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_WEZEN" Language="zh_Hans_CN">
+			<Text>弧矢一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_YILDUN" Language="zh_Hans_CN">
+			<Text>天权</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZANIAH" Language="zh_Hans_CN">
+			<Text>太微左垣一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZAURAK" Language="zh_Hans_CN">
+			<Text>天苑一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZOSMA" Language="zh_Hans_CN">
+			<Text>太微右垣五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZUBEN" Language="zh_Hans_CN">
+			<Text>氐宿四</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_AIN" Language="zh_Hans_CN">
+			<Text>毕宿一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_AMADIOHA" Language="zh_Hans_CN">
+			<Text>阿玛迪奥哈</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BEREHYNIA" Language="zh_Hans_CN">
+			<Text>贝雷基尼亚</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CERVANTES" Language="zh_Hans_CN">
+			<Text>天坛座缪</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_FELIS" Language="zh_Hans_CN">
+			<Text>猫</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_FULU" Language="zh_Hans_CN">
+			<Text>附路</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GLOAS" Language="zh_Hans_CN">
+			<Text>格娄斯</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HASSALEH" Language="zh_Hans_CN">
+			<Text>五车一</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_JISHUI" Language="zh_Hans_CN">
+			<Text>北河增二</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALDERAMIN" Language="zh_Hans_CN">
+			<Text>天钩五</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MINELAUVA" Language="zh_Hans_CN">
+			<Text>东次相</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NOSAXA" Language="zh_Hans_CN">
+			<Text>诺萨哈</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NYAMIEN" Language="zh_Hans_CN">
+			<Text>尼亚米恩</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_OGMA" Language="zh_Hans_CN">
+			<Text>七公增十七</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PINCOYA" Language="zh_Hans_CN">
+			<Text>品科亚</Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>
+

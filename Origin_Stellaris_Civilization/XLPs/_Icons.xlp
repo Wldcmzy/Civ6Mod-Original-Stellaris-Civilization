@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="_Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ELLIS_5_256"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ELLIS_5_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ELLIS_5_32"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ELLIS_5_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ELLIS_5_45"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ELLIS_5_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ELLIS_5_48"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ELLIS_5_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ELLIS_5_50"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ELLIS_5_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ELLIS_5_55"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ELLIS_5_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ELLIS_5_64"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ELLIS_5_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ELLIS_5_80"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ELLIS_5_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_GREY_256"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_GREY_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_GREY_32"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_GREY_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_GREY_45"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_GREY_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_GREY_48"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_GREY_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_GREY_50"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_GREY_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_GREY_55"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_GREY_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_GREY_64"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_GREY_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_GREY_80"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_GREY_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_WITCH_6_256"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_WITCH_6_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_WITCH_6_32"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_WITCH_6_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_WITCH_6_45"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_WITCH_6_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_WITCH_6_48"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_WITCH_6_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_WITCH_6_50"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_WITCH_6_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_WITCH_6_55"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_WITCH_6_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_WITCH_6_64"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_WITCH_6_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_WITCH_6_80"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_WITCH_6_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ZOEY_3_256"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ZOEY_3_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ZOEY_3_32"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ZOEY_3_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ZOEY_3_45"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ZOEY_3_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ZOEY_3_48"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ZOEY_3_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ZOEY_3_50"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ZOEY_3_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ZOEY_3_55"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ZOEY_3_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ZOEY_3_64"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ZOEY_3_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_STELLARIS_ZOEY_3_80"/>
+			<m_ObjectName text="ICON_LEADER_STELLARIS_ZOEY_3_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_128"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_200"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_22"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_256"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_30"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_32"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_36"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_44"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_45"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_48"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_50"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_64"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ORIGIN_STELLARIS_CIVILIZATION_80"/>
+			<m_ObjectName text="ICON_ORIGIN_STELLARIS_CIVILIZATION_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_BECOME_THE_CRISIS_256"/>
+			<m_ObjectName text="ICON_PROJECT_BECOME_THE_CRISIS_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_BECOME_THE_CRISIS_30"/>
+			<m_ObjectName text="ICON_PROJECT_BECOME_THE_CRISIS_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_BECOME_THE_CRISIS_32"/>
+			<m_ObjectName text="ICON_PROJECT_BECOME_THE_CRISIS_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_BECOME_THE_CRISIS_38"/>
+			<m_ObjectName text="ICON_PROJECT_BECOME_THE_CRISIS_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_BECOME_THE_CRISIS_50"/>
+			<m_ObjectName text="ICON_PROJECT_BECOME_THE_CRISIS_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_BECOME_THE_CRISIS_70"/>
+			<m_ObjectName text="ICON_PROJECT_BECOME_THE_CRISIS_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_BECOME_THE_CRISIS_80"/>
+			<m_ObjectName text="ICON_PROJECT_BECOME_THE_CRISIS_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_LOSSUS_PROJECT_256"/>
+			<m_ObjectName text="ICON_PROJECT_LOSSUS_PROJECT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_LOSSUS_PROJECT_30"/>
+			<m_ObjectName text="ICON_PROJECT_LOSSUS_PROJECT_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_LOSSUS_PROJECT_32"/>
+			<m_ObjectName text="ICON_PROJECT_LOSSUS_PROJECT_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_LOSSUS_PROJECT_38"/>
+			<m_ObjectName text="ICON_PROJECT_LOSSUS_PROJECT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_LOSSUS_PROJECT_50"/>
+			<m_ObjectName text="ICON_PROJECT_LOSSUS_PROJECT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_LOSSUS_PROJECT_70"/>
+			<m_ObjectName text="ICON_PROJECT_LOSSUS_PROJECT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_LOSSUS_PROJECT_80"/>
+			<m_ObjectName text="ICON_PROJECT_LOSSUS_PROJECT_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_ONE_VOICE_RULES_256"/>
+			<m_ObjectName text="ICON_PROJECT_ONE_VOICE_RULES_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_ONE_VOICE_RULES_30"/>
+			<m_ObjectName text="ICON_PROJECT_ONE_VOICE_RULES_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_ONE_VOICE_RULES_32"/>
+			<m_ObjectName text="ICON_PROJECT_ONE_VOICE_RULES_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_ONE_VOICE_RULES_38"/>
+			<m_ObjectName text="ICON_PROJECT_ONE_VOICE_RULES_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_ONE_VOICE_RULES_50"/>
+			<m_ObjectName text="ICON_PROJECT_ONE_VOICE_RULES_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_ONE_VOICE_RULES_70"/>
+			<m_ObjectName text="ICON_PROJECT_ONE_VOICE_RULES_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_ONE_VOICE_RULES_80"/>
+			<m_ObjectName text="ICON_PROJECT_ONE_VOICE_RULES_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_YYWHZGTZM_128"/>
+			<m_ObjectName text="ICON_PROJECT_YYWHZGTZM_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_YYWHZGTZM_256"/>
+			<m_ObjectName text="ICON_PROJECT_YYWHZGTZM_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_YYWHZGTZM_30"/>
+			<m_ObjectName text="ICON_PROJECT_YYWHZGTZM_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_YYWHZGTZM_32"/>
+			<m_ObjectName text="ICON_PROJECT_YYWHZGTZM_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_YYWHZGTZM_38"/>
+			<m_ObjectName text="ICON_PROJECT_YYWHZGTZM_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_YYWHZGTZM_50"/>
+			<m_ObjectName text="ICON_PROJECT_YYWHZGTZM_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_YYWHZGTZM_70"/>
+			<m_ObjectName text="ICON_PROJECT_YYWHZGTZM_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_PROJECT_YYWHZGTZM_80"/>
+			<m_ObjectName text="ICON_PROJECT_YYWHZGTZM_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_OFFSPRING_NEST_128"/>
+			<m_ObjectName text="ICON_BUILDING_OFFSPRING_NEST_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_OFFSPRING_NEST_256"/>
+			<m_ObjectName text="ICON_BUILDING_OFFSPRING_NEST_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_OFFSPRING_NEST_32"/>
+			<m_ObjectName text="ICON_BUILDING_OFFSPRING_NEST_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_OFFSPRING_NEST_38"/>
+			<m_ObjectName text="ICON_BUILDING_OFFSPRING_NEST_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_OFFSPRING_NEST_50"/>
+			<m_ObjectName text="ICON_BUILDING_OFFSPRING_NEST_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_OFFSPRING_NEST_80"/>
+			<m_ObjectName text="ICON_BUILDING_OFFSPRING_NEST_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

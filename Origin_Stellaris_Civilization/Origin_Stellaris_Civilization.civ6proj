@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>原始群星文明 Original Stellaris Civilization</Name>
+    <Guid>6bae281c-357b-4299-8e66-70b2c34ba7e2</Guid>
+    <ProjectGuid>f3fbde52-9e54-4e99-b6b2-f422de04132d</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Original stellaris civilization</Teaser>
+    <Description>Original stellaris civilization</Description>
+    <Authors>wldcmzy</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+  <Dependency type="Dlc" title="LOC_RULERS_OF_CHINA_MOD_TITLE" id="7D27831B-BAA6-4A8B-A39C-94243BAD3F47" />
+</Associations>]]></AssociationData>
+    <AssemblyName>Origin_Stellaris_Civilization</AssemblyName>
+    <RootNamespace>Origin_Stellaris_Civilization</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateText id="_Texts"><File>Common/Text_zh_Hans_CN.xml</File><File>Common/Text_en_US_with_help_of_chatGPT.xml</File></UpdateText><UpdateDatabase id="_db"><File>FrontEnd/Config.sql</File></UpdateDatabase><UpdateIcons id="_Icon"><File>InGame/Images/Icons.xml</File></UpdateIcons><UpdateArt id="_art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateColors id="_color"><File>Common/Colors1.xml</File></UpdateColors></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateText id="_TextsCommon"><File>Common/Text_zh_Hans_CN.xml</File><File>Common/Text_en_US_with_help_of_chatGPT.xml</File></UpdateText><UpdateText id="_Texts"><File>InGame/Citizen_Names/zh_Hans_CN.xml</File><File>InGame/City_Names/zh_Hans_CN.xml</File><File>InGame/Leaders_AI/Agenda_Text/zh_Hans_CN.xml</File><File>InGame/Leaders_AI/Leaders_Quotes_Text/zh_Hans_CN.xml</File><File>InGame/Leaders_AI/Leaders_Quotes_Text/Pedia_zh_Hans_CN.xml</File><File>InGame/Citizen_Names/en_US.xml</File><File>InGame/City_Names/en_US.xml</File><File>InGame/Leaders_AI/Agenda_Text/en_US_total_chatGPT.xml</File><File>InGame/Leaders_AI/Leaders_Quotes_Text/Pedia_en_US_total_chatGPT.xml</File><File>InGame/Leaders_AI/Leaders_Quotes_Text/en_US_chatGPT_AlmostDefault.xml</File></UpdateText><UpdateDatabase id="_CivMain"><File>InGame/Civilization/Civilization.sql</File><File>InGame/Leaders/Leader_Zoey_3.sql</File><File>InGame/Leaders/Leader_Witch_6.sql</File><File>InGame/Leaders/Leader_Ellis_5.sql</File><File>InGame/Leaders/Leader_Grey.sql</File><File>InGame/Buildings/Building_Offspring_Nest.xml</File></UpdateDatabase><AddGameplayScripts id="_CivMain1"><File>InGame/Leaders/Leader_Zoey_3.lua</File><File>InGame/Leaders/Leader_Witch_6.lua</File><File>InGame/Leaders/Leader_Ellis.lua</File><File>InGame/Leaders/Others_AI_Buff.lua</File></AddGameplayScripts><UpdateArt id="_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="_Names"><File>InGame/City_Names/Tag.xml</File><File>InGame/Citizen_Names/Tag.xml</File></UpdateDatabase><UpdateIcons id="_Icon"><File>InGame/Images/Icons.xml</File></UpdateIcons><UpdateDatabase id="_DB_Images"><File>InGame/Images/Images.sql</File></UpdateDatabase><UpdateColors id="_color"><File>Common/Colors1.xml</File></UpdateColors><UpdateDatabase id="_AI"><File>InGame/Leaders_AI/Leaders_AI.sql</File><File>InGame/Leaders_AI/Leaders_Agenda.sql</File></UpdateDatabase><UpdateAudio id="_Audio"><File>Platforms/Windows/Audio/OStellaris_Banks.ini</File><File>Platforms/Windows/Audio/SB_OStellaris.bnk</File><File>Platforms/Windows/Audio/SoundbanksInfo.xml</File></UpdateAudio></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Origin_Stellaris_Civilization.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="InGame" />
+    <Folder Include="FrontEnd" />
+    <Folder Include="Common" />
+    <Folder Include="InGame\City_Names" />
+    <Folder Include="InGame\Civilization" />
+    <Folder Include="InGame\Leaders" />
+    <Folder Include="InGame\Citizen_Names" />
+    <Folder Include="InGame\Images" />
+    <Folder Include="Artdefs" />
+    <Folder Include="InGame\Buildings" />
+    <Folder Include="InGame\Leaders_AI" />
+    <Folder Include="InGame\Leaders_AI\Agenda_Text" />
+    <Folder Include="InGame\Leaders_AI\Leaders_Quotes_Text" />
+    <Folder Include="Platforms" />
+    <Folder Include="Platforms\Windows" />
+    <Folder Include="Platforms\Windows\Audio" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Artdefs\FallbackLeaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Common\Colors1.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Common\Text_en_US_with_help_of_chatGPT.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Common\Text_zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="FrontEnd\Config.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Buildings\Building_Offspring_Nest.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Citizen_Names\en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Citizen_Names\Tag.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Citizen_Names\zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\City_Names\en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\City_Names\Tag.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\City_Names\zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Civilization\Civilization.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Images\Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Images\Images.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders\Others_AI_Buff.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders\Leader_Ellis.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders\Leader_Ellis_5.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders\Leader_Grey.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders\Leader_Witch_6.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders\Leader_Zoey_3.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders\Leader_Zoey_3.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders\Leader_Witch_6.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders_AI\Agenda_Text\en_US_total_chatGPT.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders_AI\Agenda_Text\zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders_AI\Leaders_Agenda.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders_AI\Leaders_AI.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders_AI\Leaders_Quotes_Text\en_US_chatGPT_AlmostDefault.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders_AI\Leaders_Quotes_Text\Pedia_en_US_total_chatGPT.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders_AI\Leaders_Quotes_Text\Pedia_zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="InGame\Leaders_AI\Leaders_Quotes_Text\zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\260577507.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\738300100.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\OStellaris_Banks.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\PluginInfo.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\SB_OStellaris.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\SB_OStellaris.txt">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\SoundbanksInfo.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

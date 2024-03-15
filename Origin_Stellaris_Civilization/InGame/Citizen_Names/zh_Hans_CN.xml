@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- zh_Hans_CN -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 2/25/2024 1:45:40 PM -->
+
+<GameData>
+	<LocalizedText>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_DATRI" Language="zh_Hans_CN">
+			<Text>达特里</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IBYK" Language="zh_Hans_CN">
+			<Text>伊比克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_STRIGI" Language="zh_Hans_CN">
+			<Text>斯特里奇</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KORACI" Language="zh_Hans_CN">
+			<Text>克拉其</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CARI" Language="zh_Hans_CN">
+			<Text>卡里</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_LANIU" Language="zh_Hans_CN">
+			<Text>拉奈</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SPARVIU" Language="zh_Hans_CN">
+			<Text>斯帕乌</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PHYSETA" Language="zh_Hans_CN">
+			<Text>非瑟塔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HARPIA" Language="zh_Hans_CN">
+			<Text>哈比亚</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MIKVU" Language="zh_Hans_CN">
+			<Text>米库</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ELANU" Language="zh_Hans_CN">
+			<Text>艾拉努</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KATHARI" Language="zh_Hans_CN">
+			<Text>卡刹</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_EKRU" Language="zh_Hans_CN">
+			<Text>艾克卢</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KORII" Language="zh_Hans_CN">
+			<Text>克伊</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SEEIR" Language="zh_Hans_CN">
+			<Text>希尔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KARAKA" Language="zh_Hans_CN">
+			<Text>卡拉卡</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KAIQU" Language="zh_Hans_CN">
+			<Text>凯库</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARACARI" Language="zh_Hans_CN">
+			<Text>阿拉卡瑞</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IORA" Language="zh_Hans_CN">
+			<Text>伊奥拉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KAGU" Language="zh_Hans_CN">
+			<Text>卡古</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_LOWII" Language="zh_Hans_CN">
+			<Text>娄伊</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ATRATA" Language="zh_Hans_CN">
+			<Text>阿特拉塔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NEKARAE" Language="zh_Hans_CN">
+			<Text>内卡拉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KAUKAE" Language="zh_Hans_CN">
+			<Text>考卡</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PARU" Language="zh_Hans_CN">
+			<Text>帕鲁</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PITYRIA" Language="zh_Hans_CN">
+			<Text>皮提拉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ESTRILI" Language="zh_Hans_CN">
+			<Text>艾斯崔里</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_VIREOK" Language="zh_Hans_CN">
+			<Text>维瑞克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_UROCYN" Language="zh_Hans_CN">
+			<Text>约森</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_THRAUPI" Language="zh_Hans_CN">
+			<Text>索比</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CORCORA" Language="zh_Hans_CN">
+			<Text>克克拉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARTAM" Language="zh_Hans_CN">
+			<Text>阿坦</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CEMOK" Language="zh_Hans_CN">
+			<Text>瑟默克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MELI" Language="zh_Hans_CN">
+			<Text>梅利</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PARDA" Language="zh_Hans_CN">
+			<Text>帕达</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_DIKA" Language="zh_Hans_CN">
+			<Text>迪卡</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_REEPI" Language="zh_Hans_CN">
+			<Text>雷皮</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AKKAN" Language="zh_Hans_CN">
+			<Text>阿坎</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KERTHII" Language="zh_Hans_CN">
+			<Text>克提</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MALUR" Language="zh_Hans_CN">
+			<Text>马卢尔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TATEEK" Language="zh_Hans_CN">
+			<Text>塔提克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AEGLI" Language="zh_Hans_CN">
+			<Text>艾格里</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_BATI" Language="zh_Hans_CN">
+			<Text>巴提</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KOKAKK" Language="zh_Hans_CN">
+			<Text>寇卡克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KRIREE" Language="zh_Hans_CN">
+			<Text>克瑞</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AKROK" Language="zh_Hans_CN">
+			<Text>阿克洛克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PYKO" Language="zh_Hans_CN">
+			<Text>皮冦</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CAKAW" Language="zh_Hans_CN">
+			<Text>卡考</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GRALLA" Language="zh_Hans_CN">
+			<Text>格拉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TYRI" Language="zh_Hans_CN">
+			<Text>泰瑞</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TITRU" Language="zh_Hans_CN">
+			<Text>提图</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SAPI" Language="zh_Hans_CN">
+			<Text>沙比</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_EURYLA" Language="zh_Hans_CN">
+			<Text>易瑞拉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KONOPO" Language="zh_Hans_CN">
+			<Text>克诺珀</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PIPRI" Language="zh_Hans_CN">
+			<Text>皮普里</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ATRIKO" Language="zh_Hans_CN">
+			<Text>阿翠寇</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SSERI" Language="zh_Hans_CN">
+			<Text>瑟里</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARTIKO" Language="zh_Hans_CN">
+			<Text>阿提寇</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PIKNO" Language="zh_Hans_CN">
+			<Text>匹克诺</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KOLLURI" Language="zh_Hans_CN">
+			<Text>克罗里</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NIKAT" Language="zh_Hans_CN">
+			<Text>尼卡特</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KALEEK" Language="zh_Hans_CN">
+			<Text>卡里克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KAWIKK" Language="zh_Hans_CN">
+			<Text>卡维克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PACHII" Language="zh_Hans_CN">
+			<Text>帕奇</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CASSRAM" Language="zh_Hans_CN">
+			<Text>卡斯伦</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_STIRYI" Language="zh_Hans_CN">
+			<Text>斯崔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ERENI" Language="zh_Hans_CN">
+			<Text>艾瑞尼</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SAREEK" Language="zh_Hans_CN">
+			<Text>萨瑞克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CUIX" Language="zh_Hans_CN">
+			<Text>崔克斯</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_LAPOA" Language="zh_Hans_CN">
+			<Text>拉波亚</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HUGIN" Language="zh_Hans_CN">
+			<Text>休金</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MUNIN" Language="zh_Hans_CN">
+			<Text>穆宁</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PSSA" Language="zh_Hans_CN">
+			<Text>帕萨</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CURASSOW" Language="zh_Hans_CN">
+			<Text>库拉索</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_COPASSAR" Language="zh_Hans_CN">
+			<Text>寇帕萨</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MANOKK" Language="zh_Hans_CN">
+			<Text>马诺科</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ROKK" Language="zh_Hans_CN">
+			<Text>洛克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_LAMASSU" Language="zh_Hans_CN">
+			<Text>拉玛苏</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MINOKAW" Language="zh_Hans_CN">
+			<Text>米诺卡</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_YALUNGUR" Language="zh_Hans_CN">
+			<Text>亚伦戈</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_YUKONNA" Language="zh_Hans_CN">
+			<Text>尤克那</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ZDUHAK" Language="zh_Hans_CN">
+			<Text>泽杜克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GAMA" Language="zh_Hans_CN">
+			<Text>伽玛</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AYUN" Language="zh_Hans_CN">
+			<Text>安云</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARKAN" Language="zh_Hans_CN">
+			<Text>阿尔坎</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ADZEHA" Language="zh_Hans_CN">
+			<Text>阿泽哈</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SIMU" Language="zh_Hans_CN">
+			<Text>希姆</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ROKKA" Language="zh_Hans_CN">
+			<Text>罗卡</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SARIMANOK" Language="zh_Hans_CN">
+			<Text>撒瑞曼克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ALKONOS" Language="zh_Hans_CN">
+			<Text>阿克诺斯</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TURUL" Language="zh_Hans_CN">
+			<Text>图鲁</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ZU" Language="zh_Hans_CN">
+			<Text>祖</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TENJU" Language="zh_Hans_CN">
+			<Text>谭久</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GANDAB" Language="zh_Hans_CN">
+			<Text>甘达</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ERUNDA" Language="zh_Hans_CN">
+			<Text>埃伦达</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HRAS" Language="zh_Hans_CN">
+			<Text>哈斯</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_VELGR" Language="zh_Hans_CN">
+			<Text>维格</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ENAKI" Language="zh_Hans_CN">
+			<Text>恩纳吉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CALADRI" Language="zh_Hans_CN">
+			<Text>卡拉崔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KHOL" Language="zh_Hans_CN">
+			<Text>寇尔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MAKHAN" Language="zh_Hans_CN">
+			<Text>马克汉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_UMKOA" Language="zh_Hans_CN">
+			<Text>安可拉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_UMLOTI" Language="zh_Hans_CN">
+			<Text>安罗提</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AMATO" Language="zh_Hans_CN">
+			<Text>阿玛托</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ISANDA" Language="zh_Hans_CN">
+			<Text>伊散达</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MAKEKI" Language="zh_Hans_CN">
+			<Text>马克齐</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MODYADI" Language="zh_Hans_CN">
+			<Text>莫亚迪</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KULU" Language="zh_Hans_CN">
+			<Text>库鲁</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TEKANE" Language="zh_Hans_CN">
+			<Text>特卡尼</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NAMA" Language="zh_Hans_CN">
+			<Text>纳玛</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CURRA" Language="zh_Hans_CN">
+			<Text>库拉</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IMVU" Language="zh_Hans_CN">
+			<Text>伊姆</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_INYATHI" Language="zh_Hans_CN">
+			<Text>因亚齐</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_UMALU" Language="zh_Hans_CN">
+			<Text>乌马鲁</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KANDA" Language="zh_Hans_CN">
+			<Text>坎达</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SKYNA" Language="zh_Hans_CN">
+			<Text>斯凯纳</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_WAKESU" Language="zh_Hans_CN">
+			<Text>维克苏</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ALVIE" Language="zh_Hans_CN">
+			<Text>奥维</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NAHATL" Language="zh_Hans_CN">
+			<Text>纳瓦特</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MAYATL" Language="zh_Hans_CN">
+			<Text>马雅特</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PEYOT" Language="zh_Hans_CN">
+			<Text>佩特</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TECOLOT" Language="zh_Hans_CN">
+			<Text>提克罗</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SAKATI" Language="zh_Hans_CN">
+			<Text>萨卡提</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HUACALLI" Language="zh_Hans_CN">
+			<Text>瓦考里</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KWARACHI" Language="zh_Hans_CN">
+			<Text>瓦拉其</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ACA" Language="zh_Hans_CN">
+			<Text>阿卡</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AIK" Language="zh_Hans_CN">
+			<Text>艾克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CAQUI" Language="zh_Hans_CN">
+			<Text>卡其</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KOLOT" Language="zh_Hans_CN">
+			<Text>寇洛特</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HUALE" Language="zh_Hans_CN">
+			<Text>胡奥利</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IKA" Language="zh_Hans_CN">
+			<Text>伊卡</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_OQUIK" Language="zh_Hans_CN">
+			<Text>奥奎克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IZIT" Language="zh_Hans_CN">
+			<Text>伊茨特</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MIQUI" Language="zh_Hans_CN">
+			<Text>米奎</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MOCOCO" Language="zh_Hans_CN">
+			<Text>默克克</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NACAYO" Language="zh_Hans_CN">
+			<Text>那卡尤</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ONEHUA" Language="zh_Hans_CN">
+			<Text>奥尼华</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_POPOKA" Language="zh_Hans_CN">
+			<Text>波波卡</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TEOT" Language="zh_Hans_CN">
+			<Text>提奥特</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NAHUA" Language="zh_Hans_CN">
+			<Text>那华</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SHIMMERPLUME" Language="zh_Hans_CN">
+			<Text>闪光羽</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ONYXFEATHER" Language="zh_Hans_CN">
+			<Text>玛瑙羽</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_RUBYCLAW" Language="zh_Hans_CN">
+			<Text>红宝石爪</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CRYSTALCLAW" Language="zh_Hans_CN">
+			<Text>水晶爪</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GLIMMERWING" Language="zh_Hans_CN">
+			<Text>闪光翼</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GOLDBEAK" Language="zh_Hans_CN">
+			<Text>黄金喙</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GEMWING" Language="zh_Hans_CN">
+			<Text>宝石翼</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_BERYLWING" Language="zh_Hans_CN">
+			<Text>绿玉翼</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_OPALPLUME" Language="zh_Hans_CN">
+			<Text>欧珀羽</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PEARLFEATHER" Language="zh_Hans_CN">
+			<Text>珍珠羽</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_DIAMONDWING" Language="zh_Hans_CN">
+			<Text>钻石翼</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_EMERALDPLUME" Language="zh_Hans_CN">
+			<Text>绿宝石羽</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MOONCLAW" Language="zh_Hans_CN">
+			<Text>月亮爪</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SUNPLUME" Language="zh_Hans_CN">
+			<Text>太阳羽</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARUK" Language="zh_Hans_CN">
+			<Text>阿鲁克</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>
+

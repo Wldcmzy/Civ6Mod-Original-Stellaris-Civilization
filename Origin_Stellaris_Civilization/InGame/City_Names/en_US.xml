@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- en_US -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 2/25/2024 12:32:55 AM -->
+
+<GameData>
+	<LocalizedText>
+
+		<Replace Tag="LOC_CITY_L" Language="en_US">
+			<Text>City L</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITY_SOL" Language="en_US">
+			<Text>Sol</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CPU" Language="en_US">
+			<Text>CPU</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITY_ZETA_RETICULI" Language="en_US">
+			<Text>Zeta Reticuli</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_AQUILAE" Language="en_US">
+			<Text>Beta Aquilae</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_CAELI" Language="en_US">
+			<Text>Beta Caeli</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_CORVI" Language="en_US">
+			<Text>Beta Corvi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_HYDRI" Language="en_US">
+			<Text>Beta Hydri</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_EPSILON_ERIDANI" Language="en_US">
+			<Text>Epsilon Eridani</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_EPSILON_INDI" Language="en_US">
+			<Text>Epsilon Indi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TAU_CETI" Language="en_US">
+			<Text>Tau Ceti</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SIGMA_DRACONIS" Language="en_US">
+			<Text>Sigma Draconis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TAU_CYGNI" Language="en_US">
+			<Text>Tau Cygni</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHA_HYDRI" Language="en_US">
+			<Text>Alpha Hydri</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CHI_DRACONIS" Language="en_US">
+			<Text>Chi Draconis</Text>
+		</Replace>
+		
+		
+		<Replace Tag="LOC_CITY_DELTA_PAVONIS" Language="en_US">
+			<Text>Delta Pavonis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GAMMA_DRACONIS" Language="en_US">
+			<Text>Gamma Draconis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_LAMBDA_SERPENTIS" Language="en_US">
+			<Text>Lambda Serpentis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_OMICRON_PERSEI" Language="en_US">
+			<Text>Omicron Persei</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DELTA_CEPHEI" Language="en_US">
+			<Text>Delta Cephei</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETA_URSAE_MAJORIS" Language="en_US">
+			<Text>Beta Ursae Majoris</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHA_CANIS" Language="en_US">
+			<Text>Alpha Canis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_EPSILON_CYGNI" Language="en_US">
+			<Text>Epsilon Cygni</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHA_LYNCIS" Language="en_US">
+			<Text>Alpha Lyncis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_THETA_SCORPII" Language="en_US">
+			<Text>Theta Scorpii</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KAUS_BOREALIS" Language="en_US">
+			<Text>Kaus Borealis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GAMMA_DELPHINI" Language="en_US">
+			<Text>Gamma Delphini</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GAMMA_VELORUM" Language="en_US">
+			<Text>Gamma Velorum</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MU_OPHIUCHI" Language="en_US">
+			<Text>Mu Ophiuchi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ACHERNAR" Language="en_US">
+			<Text>Achernar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ACRUX" Language="en_US">
+			<Text>Acrux</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALAMAK" Language="en_US">
+			<Text>Alamak</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALCOR" Language="en_US">
+			<Text>Alcor</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHARD" Language="en_US">
+			<Text>Alphard</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ANGETENAR" Language="en_US">
+			<Text>Angetenar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_AZHA" Language="en_US">
+			<Text>Azha</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BEID" Language="en_US">
+			<Text>Beid</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BIHAM" Language="en_US">
+			<Text>Biham</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BOTEIN" Language="en_US">
+			<Text>Botein</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BRACHIUM" Language="en_US">
+			<Text>Brachium</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BUNDA" Language="en_US">
+			<Text>Bunda</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CELAENO" Language="en_US">
+			<Text>Celaeno</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CHARA" Language="en_US">
+			<Text>Chara</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CURSA" Language="en_US">
+			<Text>Cursa</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DABIH" Language="en_US">
+			<Text>Dabih</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_EDASICH" Language="en_US">
+			<Text>Edasich</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HADAR" Language="en_US">
+			<Text>Hadar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HAEDUS" Language="en_US">
+			<Text>Haedus</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HEZE" Language="en_US">
+			<Text>Heze</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HOMAM" Language="en_US">
+			<Text>Homam</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_IZAR" Language="en_US">
+			<Text>Izar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KRAZ" Language="en_US">
+			<Text>Kraz</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KUMA" Language="en_US">
+			<Text>Kuma</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MATAR" Language="en_US">
+			<Text>Matar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MERGA" Language="en_US">
+			<Text>Merga</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MEROPE" Language="en_US">
+			<Text>Merope</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MIRA" Language="en_US">
+			<Text>Mira</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MIRZAM" Language="en_US">
+			<Text>Mirzam</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ACAMAR" Language="en_US">
+			<Text>Acamar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ACUBENS" Language="en_US">
+			<Text>Acubens</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALDEBARAN" Language="en_US">
+			<Text>Aldebaran</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALGOL" Language="en_US">
+			<Text>Algol</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALGORAB" Language="en_US">
+			<Text>Algorab</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALIOTH" Language="en_US">
+			<Text>Alioth</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALKAID" Language="en_US">
+			<Text>Alkaid</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALMACH" Language="en_US">
+			<Text>Almach</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALPHECCA" Language="en_US">
+			<Text>Alphecca</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALTAIR" Language="en_US">
+			<Text>Altair</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALUDRA" Language="en_US">
+			<Text>Aludra</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ANTARES" Language="en_US">
+			<Text>Antares</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ARCTURUS" Language="en_US">
+			<Text>Arcturus</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ASCELLA" Language="en_US">
+			<Text>Ascella</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ASTERION" Language="en_US">
+			<Text>Asterion</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ASTEROPE" Language="en_US">
+			<Text>Asterope</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ATLAS" Language="en_US">
+			<Text>Atlas</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BELLATRIX" Language="en_US">
+			<Text>Bellatrix</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BETELGEUSE" Language="en_US">
+			<Text>Betelgeuse</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CANOPUS" Language="en_US">
+			<Text>Canopus</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CAPELLA" Language="en_US">
+			<Text>Capella</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CAPH" Language="en_US">
+			<Text>Caph</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CASTOR" Language="en_US">
+			<Text>Castor</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CEBELRAI" Language="en_US">
+			<Text>Cebelrai</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CHELEB" Language="en_US">
+			<Text>Cheleb</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CHERTAN" Language="en_US">
+			<Text>Chertan</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DIADEM" Language="en_US">
+			<Text>Diadem</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DIPHDA" Language="en_US">
+			<Text>Diphda</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_DNOCES" Language="en_US">
+			<Text>Dnoces</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ELECTRA" Language="en_US">
+			<Text>Electra</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ELNATH" Language="en_US">
+			<Text>Elnath</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ENIF" Language="en_US">
+			<Text>Enif</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ERRAI" Language="en_US">
+			<Text>Errai</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_FOMALHAUT" Language="en_US">
+			<Text>Fomalhaut</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_FURUD" Language="en_US">
+			<Text>Furud</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GEMMA" Language="en_US">
+			<Text>Gemma</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GIANFAR" Language="en_US">
+			<Text>Gianfar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GIEDI" Language="en_US">
+			<Text>Giedi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GIRTAB" Language="en_US">
+			<Text>Girtab</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GOMEISA" Language="en_US">
+			<Text>Gomeisa</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GRUMIUM" Language="en_US">
+			<Text>Grumium</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HASSELEH" Language="en_US">
+			<Text>Hasseleh</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HEKA" Language="en_US">
+			<Text>Heka</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HOEDUS" Language="en_US">
+			<Text>Hoedus</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HYADUM" Language="en_US">
+			<Text>Hyadum</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_JABBAH" Language="en_US">
+			<Text>Jabbah</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KEID" Language="en_US">
+			<Text>Keid</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KOCHAB" Language="en_US">
+			<Text>Kochab</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KORNEPHOROS" Language="en_US">
+			<Text>Kornephoros</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_KSORA" Language="en_US">
+			<Text>Ksora</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_LESATH" Language="en_US">
+			<Text>Lesath</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MAASYM" Language="en_US">
+			<Text>Maasym</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MAIA" Language="en_US">
+			<Text>Maia</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MARKAB" Language="en_US">
+			<Text>Markab</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MEISSA" Language="en_US">
+			<Text>Meissa</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MELEPH" Language="en_US">
+			<Text>Meleph</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MENKALINAN" Language="en_US">
+			<Text>Menkalinan</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MENKAR" Language="en_US">
+			<Text>Menkar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MESARTHIM" Language="en_US">
+			<Text>Mesarthim</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MINCHIR" Language="en_US">
+			<Text>Minchir</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MINTAKA" Language="en_US">
+			<Text>Mintaka</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MIRACH" Language="en_US">
+			<Text>Mirach</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MIZAR" Language="en_US">
+			<Text>Mizar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MUPHRID" Language="en_US">
+			<Text>Muphrid</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MUSCIDA" Language="en_US">
+			<Text>Muscida</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAOS" Language="en_US">
+			<Text>Naos</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NASHIRA" Language="en_US">
+			<Text>Nashira</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAVI" Language="en_US">
+			<Text>Navi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NEKKAR" Language="en_US">
+			<Text>Nekkar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NEMBUS" Language="en_US">
+			<Text>Nembus</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NIHAL" Language="en_US">
+			<Text>Nihal</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NUNKI" Language="en_US">
+			<Text>Nunki</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NUSAKAN" Language="en_US">
+			<Text>Nusakan</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PHACT" Language="en_US">
+			<Text>Phact</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PHERKAD" Language="en_US">
+			<Text>Pherkad</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PLEIONE" Language="en_US">
+			<Text>Pleione</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_POERAVA" Language="en_US">
+			<Text>Poerava</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_POLLUX" Language="en_US">
+			<Text>Pollux</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PORRIMA" Language="en_US">
+			<Text>Porrima</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PROPUS" Language="en_US">
+			<Text>Propus</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RANA" Language="en_US">
+			<Text>Rana</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RASALAS" Language="en_US">
+			<Text>Rasalas</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RASALGETHI" Language="en_US">
+			<Text>Rasalgethi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RASALHAGUE" Language="en_US">
+			<Text>Rasalhague</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RASTABAN" Language="en_US">
+			<Text>Rastaban</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_REGOR" Language="en_US">
+			<Text>Regor</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_REGULUS" Language="en_US">
+			<Text>Regulus</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RIGEL" Language="en_US">
+			<Text>Rigel</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ROTANEV" Language="en_US">
+			<Text>Rotanev</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RUCHBA" Language="en_US">
+			<Text>1 Ruchbah</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_RUKBAT" Language="en_US">
+			<Text>Rukbat</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SABIK" Language="en_US">
+			<Text>Sabik</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SADALBARI" Language="en_US">
+			<Text>Sadalbari</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SAIPH" Language="en_US">
+			<Text>Saiph</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SARGAS" Language="en_US">
+			<Text>Sargas</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SCEPTRUM" Language="en_US">
+			<Text>Sceptrum</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SCHEAT" Language="en_US">
+			<Text>Scheat</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SECUNDA_HYADUM" Language="en_US">
+			<Text>Secunda Hyadum</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SEGINUS" Language="en_US">
+			<Text>Seginus</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SHAULA" Language="en_US">
+			<Text>Shaula</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SHELIAK" Language="en_US">
+			<Text>Sheliak</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SHERATAN" Language="en_US">
+			<Text>Sheratan</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SITULA" Language="en_US">
+			<Text>Situla</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SKAT" Language="en_US">
+			<Text>Skat</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SPICA" Language="en_US">
+			<Text>Spica</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_STRIBOR" Language="en_US">
+			<Text>Stribor</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SUBRA" Language="en_US">
+			<Text>Subra</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_SYRMA" Language="en_US">
+			<Text>Syrma</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TAIYANGSHOU" Language="en_US">
+			<Text>Taiyangshou</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TAIYI" Language="en_US">
+			<Text>Taiyi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TARAZED" Language="en_US">
+			<Text>Tarazed</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TEREBELLUM" Language="en_US">
+			<Text>Terebellum</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_THABIT" Language="en_US">
+			<Text>Thabit</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_THEEMIN" Language="en_US">
+			<Text>Theemin</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_THUBAN" Language="en_US">
+			<Text>Thuban</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TONATIUH" Language="en_US">
+			<Text>Tonatiuh</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_TUREIS" Language="en_US">
+			<Text>Tureis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_VEGA" Language="en_US">
+			<Text>Vega</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_VINDEMIATRIX" Language="en_US">
+			<Text>Vindemiatrix</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_WASAT" Language="en_US">
+			<Text>Wasat</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_WEZEN" Language="en_US">
+			<Text>Wezen</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_YILDUN" Language="en_US">
+			<Text>Yildun</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZANIAH" Language="en_US">
+			<Text>Zaniah</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZAURAK" Language="en_US">
+			<Text>Zaurak</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZOSMA" Language="en_US">
+			<Text>Zosma</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ZUBEN" Language="en_US">
+			<Text>Zuben</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_AIN" Language="en_US">
+			<Text>Ain</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_AMADIOHA" Language="en_US">
+			<Text>Amadioha</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_BEREHYNIA" Language="en_US">
+			<Text>Berehynia</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_CERVANTES" Language="en_US">
+			<Text>Cervantes</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_FELIS" Language="en_US">
+			<Text>Felis</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_FULU" Language="en_US">
+			<Text>Fulu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_GLOAS" Language="en_US">
+			<Text>Gloas</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_HASSALEH" Language="en_US">
+			<Text>Hassaleh</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_JISHUI" Language="en_US">
+			<Text>Jishui</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_ALDERAMIN" Language="en_US">
+			<Text>Alderamin</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_MINELAUVA" Language="en_US">
+			<Text>Minelauva</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NOSAXA" Language="en_US">
+			<Text>Nosaxa</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NYAMIEN" Language="en_US">
+			<Text>Nyamien</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_OGMA" Language="en_US">
+			<Text>Ogma</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_PINCOYA" Language="en_US">
+			<Text>Pincoya</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

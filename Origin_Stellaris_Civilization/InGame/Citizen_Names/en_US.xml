@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- en_US -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 2/25/2024 1:46:22 PM -->
+
+<GameData>
+	<LocalizedText>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_DATRI" Language="en_US">
+			<Text>Datri</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IBYK" Language="en_US">
+			<Text>Ibyk</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_STRIGI" Language="en_US">
+			<Text>Strigi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KORACI" Language="en_US">
+			<Text>Koraci</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CARI" Language="en_US">
+			<Text>Cari</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_LANIU" Language="en_US">
+			<Text>Laniu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SPARVIU" Language="en_US">
+			<Text>Sparviu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PHYSETA" Language="en_US">
+			<Text>Physeta</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HARPIA" Language="en_US">
+			<Text>Harpia</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MIKVU" Language="en_US">
+			<Text>Mikvu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ELANU" Language="en_US">
+			<Text>Elanu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KATHARI" Language="en_US">
+			<Text>Kathari</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_EKRU" Language="en_US">
+			<Text>Ekru</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KORII" Language="en_US">
+			<Text>Korii</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SEEIR" Language="en_US">
+			<Text>Seeir</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KARAKA" Language="en_US">
+			<Text>Karaka</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KAIQU" Language="en_US">
+			<Text>Kaiqu</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARACARI" Language="en_US">
+			<Text>Aracari</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IORA" Language="en_US">
+			<Text>Iora</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KAGU" Language="en_US">
+			<Text>Kagu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_LOWII" Language="en_US">
+			<Text>Lowii</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ATRATA" Language="en_US">
+			<Text>Atrata</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NEKARAE" Language="en_US">
+			<Text>Nekarae</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KAUKAE" Language="en_US">
+			<Text>Kaukae</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PARU" Language="en_US">
+			<Text>Paru</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PITYRIA" Language="en_US">
+			<Text>Pityria</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ESTRILI" Language="en_US">
+			<Text>Estrili</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_VIREOK" Language="en_US">
+			<Text>Vireok</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_UROCYN" Language="en_US">
+			<Text>Urocyn</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_THRAUPI" Language="en_US">
+			<Text>Thraupi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CORCORA" Language="en_US">
+			<Text>Corcora</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARTAM" Language="en_US">
+			<Text>Artam</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CEMOK" Language="en_US">
+			<Text>Cemok</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MELI" Language="en_US">
+			<Text>Meli</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PARDA" Language="en_US">
+			<Text>Parda</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_DIKA" Language="en_US">
+			<Text>Dika</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_REEPI" Language="en_US">
+			<Text>Reepi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AKKAN" Language="en_US">
+			<Text>Akkan</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KERTHII" Language="en_US">
+			<Text>Kerthii</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MALUR" Language="en_US">
+			<Text>Malur</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TATEEK" Language="en_US">
+			<Text>Tateek</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AEGLI" Language="en_US">
+			<Text>Aegli</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_BATI" Language="en_US">
+			<Text>Bati</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KOKAKK" Language="en_US">
+			<Text>Kokakk</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KRIREE" Language="en_US">
+			<Text>Kriree</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AKROK" Language="en_US">
+			<Text>Akrok</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PYKO" Language="en_US">
+			<Text>Pyko</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CAKAW" Language="en_US">
+			<Text>Cakaw</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GRALLA" Language="en_US">
+			<Text>Gralla</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TYRI" Language="en_US">
+			<Text>Tyri</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TITRU" Language="en_US">
+			<Text>Titru</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SAPI" Language="en_US">
+			<Text>Sapi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_EURYLA" Language="en_US">
+			<Text>Euryla</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KONOPO" Language="en_US">
+			<Text>Konopo</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PIPRI" Language="en_US">
+			<Text>Pipri</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ATRIKO" Language="en_US">
+			<Text>Atriko</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SSERI" Language="en_US">
+			<Text>Sseri</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARTIKO" Language="en_US">
+			<Text>Artiko</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PIKNO" Language="en_US">
+			<Text>Pikno</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KOLLURI" Language="en_US">
+			<Text>Kolluri</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NIKAT" Language="en_US">
+			<Text>Nikat</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KALEEK" Language="en_US">
+			<Text>Kaleek</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KAWIKK" Language="en_US">
+			<Text>Kawikk</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PACHII" Language="en_US">
+			<Text>Pachii</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CASSRAM" Language="en_US">
+			<Text>Cassram</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_STIRYI" Language="en_US">
+			<Text>Stiryi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ERENI" Language="en_US">
+			<Text>Ereni</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SAREEK" Language="en_US">
+			<Text>Sareek</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CUIX" Language="en_US">
+			<Text>Cuix</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_LAPOA" Language="en_US">
+			<Text>Lapoa</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HUGIN" Language="en_US">
+			<Text>Hugin</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MUNIN" Language="en_US">
+			<Text>Munin</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PSSA" Language="en_US">
+			<Text>Pssa</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CURASSOW" Language="en_US">
+			<Text>Curassow</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_COPASSAR" Language="en_US">
+			<Text>Copassar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MANOKK" Language="en_US">
+			<Text>Manokk</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ROKK" Language="en_US">
+			<Text>Rokk</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_LAMASSU" Language="en_US">
+			<Text>Lamassu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MINOKAW" Language="en_US">
+			<Text>Minokaw</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_YALUNGUR" Language="en_US">
+			<Text>Yalungur</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_YUKONNA" Language="en_US">
+			<Text>Yukonna</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ZDUHAK" Language="en_US">
+			<Text>Zduhak</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GAMA" Language="en_US">
+			<Text>Gama</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AYUN" Language="en_US">
+			<Text>Ayun</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARKAN" Language="en_US">
+			<Text>Arkan</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ADZEHA" Language="en_US">
+			<Text>Adzeha</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SIMU" Language="en_US">
+			<Text>Simu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ROKKA" Language="en_US">
+			<Text>Rokka</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SARIMANOK" Language="en_US">
+			<Text>Sarimanok</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ALKONOS" Language="en_US">
+			<Text>Alkonos</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TURUL" Language="en_US">
+			<Text>Turul</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ZU" Language="en_US">
+			<Text>Zu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TENJU" Language="en_US">
+			<Text>Tenju</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GANDAB" Language="en_US">
+			<Text>Gandab</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ERUNDA" Language="en_US">
+			<Text>Erunda</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HRAS" Language="en_US">
+			<Text>Hras</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_VELGR" Language="en_US">
+			<Text>Velgr</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ENAKI" Language="en_US">
+			<Text>Enaki</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CALADRI" Language="en_US">
+			<Text>Caladri</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KHOL" Language="en_US">
+			<Text>Khol</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MAKHAN" Language="en_US">
+			<Text>Makhan</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_UMKOA" Language="en_US">
+			<Text>Umkoa</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_UMLOTI" Language="en_US">
+			<Text>Umloti</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AMATO" Language="en_US">
+			<Text>Amato</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ISANDA" Language="en_US">
+			<Text>Isanda</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MAKEKI" Language="en_US">
+			<Text>Makeki</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MODYADI" Language="en_US">
+			<Text>Modyadi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KULU" Language="en_US">
+			<Text>Kulu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TEKANE" Language="en_US">
+			<Text>Tekane</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NAMA" Language="en_US">
+			<Text>Nama</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CURRA" Language="en_US">
+			<Text>Curra</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IMVU" Language="en_US">
+			<Text>Imvu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_INYATHI" Language="en_US">
+			<Text>Inyathi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_UMALU" Language="en_US">
+			<Text>Umalu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KANDA" Language="en_US">
+			<Text>Kanda</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SKYNA" Language="en_US">
+			<Text>Skyna</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_WAKESU" Language="en_US">
+			<Text>Wakesu</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ALVIE" Language="en_US">
+			<Text>Alvie</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NAHATL" Language="en_US">
+			<Text>Nahatl</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MAYATL" Language="en_US">
+			<Text>Mayatl</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PEYOT" Language="en_US">
+			<Text>Peyot</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TECOLOT" Language="en_US">
+			<Text>Tecolot</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SAKATI" Language="en_US">
+			<Text>Sakati</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HUACALLI" Language="en_US">
+			<Text>Huacalli</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KWARACHI" Language="en_US">
+			<Text>Kwarachi</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ACA" Language="en_US">
+			<Text>Aca</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_AIK" Language="en_US">
+			<Text>Aik</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CAQUI" Language="en_US">
+			<Text>Caqui</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_KOLOT" Language="en_US">
+			<Text>Kolot</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_HUALE" Language="en_US">
+			<Text>Huale</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IKA" Language="en_US">
+			<Text>Ika</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_OQUIK" Language="en_US">
+			<Text>Oquik</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_IZIT" Language="en_US">
+			<Text>Izit</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MIQUI" Language="en_US">
+			<Text>Miqui</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MOCOCO" Language="en_US">
+			<Text>Mococo</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NACAYO" Language="en_US">
+			<Text>Nacayo</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ONEHUA" Language="en_US">
+			<Text>Onehua</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_POPOKA" Language="en_US">
+			<Text>Popoka</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_TEOT" Language="en_US">
+			<Text>Teot</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_NAHUA" Language="en_US">
+			<Text>Nahua</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SHIMMERPLUME" Language="en_US">
+			<Text>Shimmerplume</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ONYXFEATHER" Language="en_US">
+			<Text>Onyxfeather</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_RUBYCLAW" Language="en_US">
+			<Text>Rubyclaw</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_CRYSTALCLAW" Language="en_US">
+			<Text>Crystalclaw</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GLIMMERWING" Language="en_US">
+			<Text>Glimmerwing</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GOLDBEAK" Language="en_US">
+			<Text>Goldbeak</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_GEMWING" Language="en_US">
+			<Text>Gemwing</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_BERYLWING" Language="en_US">
+			<Text>Berylwing</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_OPALPLUME" Language="en_US">
+			<Text>Opalplume</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_PEARLFEATHER" Language="en_US">
+			<Text>Pearlfeather</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_DIAMONDWING" Language="en_US">
+			<Text>Diamondwing</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_EMERALDPLUME" Language="en_US">
+			<Text>Emeraldplume</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_MOONCLAW" Language="en_US">
+			<Text>Moonclaw</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_SUNPLUME" Language="en_US">
+			<Text>Sunplume</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AVI4_CHR_ARUK" Language="en_US">
+			<Text>Aruk</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

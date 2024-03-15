@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>G:\CVImoddata\civ6bgmStellaris_rework\</ProjectRoot>
+		<SourceFilesRoot>G:\CVImoddata\civ6bgmStellaris_rework\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>G:\CVImoddata\civ6bgmStellaris_rework\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>G:\CVImoddata\civ6bgmStellaris_rework\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="260577507" Language="SFX">
+			<ShortName>creationandbeyondpart1.wav</ShortName>
+			<Path>SFX\creationandbeyondpart1_4B8CC0C5.wem</Path>
+		</File>
+		<File Id="738300100" Language="SFX">
+			<ShortName>fasterthanlight.wav</ShortName>
+			<Path>SFX\fasterthanlight_4B8CC0C5.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3817269455" Language="SFX">
+			<ShortName>SB_OStellaris</ShortName>
+			<Path>SB_OStellaris.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1694422836" Name="Pause_Music_ORIGINALSTELLARIS"/>
+				<Event Id="1280448440" Name="Play_Leader_Music_ORIGINALSTELLARIS"/>
+				<Event Id="138262418" Name="Play_Music_ORIGINALSTELLARIS"/>
+				<Event Id="847604901" Name="Resume_Music_ORIGINALSTELLARIS"/>
+				<Event Id="3554803338" Name="Start_Music_ORIGINALSTELLARIS"/>
+				<Event Id="969620262" Name="Stop_Leader_Music_ORIGINALSTELLARIS"/>
+				<Event Id="3005854412" Name="Stop_Music_ORIGINALSTELLARIS"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="260577507"/>
+				<File Id="738300100"/>
+			</ReferencedStreamedFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

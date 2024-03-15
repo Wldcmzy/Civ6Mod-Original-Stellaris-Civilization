@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- en_US -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 3/13/2024 9:32:41 PM -->
+
+<GameData>
+	<LocalizedText>
+		<!-- LEADER_STELLARIS_GREY-->
+		<!--=============================================================================================-->
+		
+		<!--Agenda-->
+		<!--=============================================================================================-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>Your technology is quite advanced, is there any secret?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_STELLARIS_GREY_REASON_ANY" Language="en_US">
+			<Text>(Your technology is very advanced)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>I always feel your development is a bit strange, maybe you should catch up on technology.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_STELLARIS_GREY_REASON_ANY" Language="en_US">
+			<Text>(Your technology is somewhat behind)</Text>
+		</Replace>
+
+
+
+		<!--First Meet & Defeat & Greeting-->
+		<!--=============================================================================================-->
+
+		<!--First Meet-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>Greetings traveler. Our creators called us the "Naar-Di-Shav" which roughly translates to "Gray Tempest" in your language. I suppose to keep things simple you could simply call me "Gray".</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Defeat-->
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Greeting-->
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_GREETING_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Delegation & Embassy-->
+		<!--=============================================================================================-->
+
+		<!--Delegation-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Embassy-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Friendship & Alliance-->
+		<!--=============================================================================================-->
+
+		<!--Friendship-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Alliance-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Denounce & War & Make Peace-->
+		<!--=============================================================================================-->
+
+		<!--Denounce-->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--War-->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Make Peace-->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Open Borders & Make Deal & Demand-->
+		<!--=============================================================================================-->
+
+		<!--Open Borders-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Make Deal-->
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Demand-->
+		<Replace Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+
+		<!--Warning:[Settle & Troops & Spy & Dig & Converting Religion]-->
+		<!--=============================================================================================-->
+
+		<!--Warning: Settle-->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Warning: Too Many Troops-->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{}</Text>
+		</Replace>
+
+		<!--Warning: Spy-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Warning: Dig-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Warning: Converting Religion-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_GREY_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+	</LocalizedText>
+
+
+
+	<LocalizedText>
+		<!--LEADER_STELLARIS_ZOEY_3-->
+		<!--=============================================================================================-->
+
+		<!--Agenda-->
+		<!--=============================================================================================-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>You've distanced yourself from us, whether due to innate factors or subsequent decisions. You're very fortunate.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_STELLARIS_ZOEY_3_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(They are pleased that your country is far away from them)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_STELLARIS_ZOEY_3_ANY" Language="zh_Hans_CN">
+			<Text>If our civilizations all had more land, they would surely thrive more, right?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_STELLARIS_ZOEY_3_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(Your cities are too close to theirs)</Text>
+		</Replace>
+
+
+		<!--First Meet & Defeat & Greeting-->
+		<!--=============================================================================================-->
+
+		<!--First Meet-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Defeat-->
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Greeting-->
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_GREETING_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Delegation & Embassy-->
+		<!--=============================================================================================-->
+
+		<!--Delegation-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Embassy-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Friendship & Alliance-->
+		<!--=============================================================================================-->
+
+		<!--Friendship-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Alliance-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Denounce & War & Make Peace-->
+		<!--=============================================================================================-->
+
+		<!--Denounce-->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--War-->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Make Peace-->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Open Borders & Make Deal & Demand-->
+		<!--=============================================================================================-->
+
+		<!--Open Borders-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Make Deal-->
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Demand-->
+		<Replace Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+
+		<!--Warning:[Settle & Troops & Spy & Dig & Converting Religion]-->
+		<!--=============================================================================================-->
+
+		<!--Warning: Settle-->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Warning: Too Many Troops-->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{}</Text>
+		</Replace>
+
+		<!--Warning: Spy-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Warning: Dig-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Warning: Converting Religion-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ZOEY_3_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+
+	</LocalizedText>
+
+
+
+
+	<LocalizedText>
+
+		<!--LEADER_STELLARIS_ELLIS_5-->
+		<!--=============================================================================================-->
+
+		<!--Agenda-->
+		<!--=============================================================================================-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>Crowded. Thriving.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_STELLARIS_ELLIS_5_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(They are pleased to see that your cities are populous)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_STELLARIS_ELLIS_5_ANY" Language="zh_Hans_CN">
+			<Text>Your population may become a big problem, growth nodes foresee a downturn.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_STELLARIS_ELLIS_5_REASON_ANY" Language="zh_Hans_CN">
+			<Text>(Your city's population is too low)</Text>
+		</Replace>
+
+
+
+		<!--First Meet & Defeat & Greeting-->
+		<!--=============================================================================================-->
+
+		<!--First Meet-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Defeat-->
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Greeting-->
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_GREETING_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Delegation & Embassy-->
+		<!--=============================================================================================-->
+
+		<!--Delegation-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Embassy-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_EMBASSY_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Friendship & Alliance-->
+		<!--=============================================================================================-->
+
+		<!--Friendship-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Alliance-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Denounce & War & Make Peace-->
+		<!--=============================================================================================-->
+
+		<!--Denounce-->
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--War-->
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Make Peace-->
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Open Borders & Make Deal & Demand-->
+		<!--=============================================================================================-->
+
+		<!--Open Borders-->
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Make Deal-->
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Demand-->
+		<Replace Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_ANY_ANY}</Text>
+		</Replace>
+
+
+
+		<!--Warning:[Settle & Troops & Spy & Dig & Converting Religion]-->
+		<!--=============================================================================================-->
+
+		<!--Warning: Settle-->
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+
+		<!--Warning: Too Many Troops-->
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{}</Text>
+		</Replace>
+
+		<!--Warning: Spy-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Warning: Dig-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+		<!--Warning: Converting Religion-->
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY}</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_ELLIS_5_ANY" Language="en_US">
+			<Text>{LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY}</Text>
+		</Replace>
+
+
+	</LocalizedText>
+
+
+
+
+
+
+	<LocalizedText>
+		<!--LEADER_STELLARIS_WITCH_6-->
+		<!--=============================================================================================-->
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<!--
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_STELLARIS_WITCH_6_REASON_ANY" Language="en_US">
+        <Text>(Incoherent noise)</Text>
+		</Replace>
+		-->
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<!--
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_STELLARIS_WITCH_6_REASON_ANY" Language="en_US">
+        <Text>Devour...</Text>
+		</Replace>
+		-->
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>...§Y&lt;Unreadable&gt;§...Hello...§Y&lt;Incoherent noise&gt;§...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>...§Y&lt;Incoherent noise&gt;§...Location...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Annihilation...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Annihilation...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...[NEWLINE](Condemning you)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_REFUSE_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ACCEPT_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_DEAL_AI_ADJUST_DEAL_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_REFUSE_DEMAND_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Annihilation...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Food...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Annihilation...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Devour...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>Raid...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_LEADER_STELLARIS_WITCH_6_ANY" Language="en_US">
+			<Text>(Incoherent noise)</Text>
+		</Replace>
+	</LocalizedText>
+
+
+
+</GameData>
